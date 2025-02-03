@@ -15,7 +15,7 @@ for ip_address in "${ip_addresses[@]}"; do
 	ip=$ip_address
 
     # Searching all the Indian Probes available over IPv4
-    ripe-atlas probe-search --country IN --aggregate-by asn_v4 --limit 500 --max-per-aggregation 1 --ids-only > list.of.indian.ipv4.probes
+    ripe-atlas probe-search --country IN --status 1 --aggregate-by asn_v4 --limit 500 --max-per-aggregation 1 --ids-only > list.of.indian.ipv4.probes
 
     # Searching all the global IP address ping results
     # This measurement-search command has a limit of returning only max 1000 ids. We can choose the duration, such as weekly, so that we don't miss any results
