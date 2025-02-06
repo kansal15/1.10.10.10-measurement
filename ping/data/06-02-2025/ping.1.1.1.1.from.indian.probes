@@ -1,0 +1,946 @@
+PING 1.1.1.1 (resolved on server)
+48 bytes from 1.1.1.1 via probe #1003622 (217.21.86.68): ttl=55 times=5.164 ms, 2.824 ms, 2.465 ms
+48 bytes from 1.1.1.1 via probe #27480 (59.96.59.247): ttl=55 times=20.485 ms, 20.663 ms, 20.371 ms
+
+--- 1.1.1.1 ping statistics ---
+6 packets transmitted, 6 received, 0.0% loss
+rtt min/med/avg/max = 2.465/12.767/11.995/20.663 ms
+PING 1.1.1.1 (resolved on server)
+64 bytes from 1.1.1.1 via probe #1007618 (113.192.4.14): ttl=57 times=17.549 ms, 17.595 ms, 17.586 ms
+64 bytes from 1.1.1.1 via probe #1000458 (202.53.8.243): ttl=58 times=0.637 ms, 0.578 ms, 0.468 ms
+64 bytes from 1.1.1.1 via probe #1004046 (103.250.184.188): ttl=57 times=28.851 ms, 29.071 ms, 28.852 ms
+64 bytes from 1.1.1.1 via probe #1004047 (159.89.171.96): ttl=59 times=2.242 ms, 0.992 ms, 1.037 ms
+64 bytes from 1.1.1.1 via probe #28176 (122.166.191.40): ttl=59 times=8.229 ms, 8.895 ms, 8.964 ms
+64 bytes from 1.1.1.1 via probe #1000979 (152.67.1.199): ttl=57 times=3.065 ms, 3.24 ms, 4.004 ms
+64 bytes from 1.1.1.1 via probe #62997 (122.161.50.222): ttl=59 times=7.615 ms, 4.638 ms, 5.077 ms
+64 bytes from 1.1.1.1 via probe #1008158 (5.188.228.45): ttl=55 times=2.327 ms, 2.347 ms, 2.385 ms
+64 bytes from 1.1.1.1 via probe #1000486 (117.254.162.65): ttl=58 times=18.669 ms, 18.999 ms, 19.163 ms
+64 bytes from 1.1.1.1 via probe #1005612 (223.236.207.232): ttl=58 times=7.101 ms, 6.394 ms, 5.116 ms
+64 bytes from 1.1.1.1 via probe #1001518 (103.108.57.27): ttl=57 times=44.64 ms, 43.718 ms, 43.946 ms
+64 bytes from 1.1.1.1 via probe #1009203 (202.173.127.203): ttl=57 times=3.753 ms, 4.092 ms, 4.022 ms
+64 bytes from 1.1.1.1 via probe #1004599 (49.43.96.118): ttl=52 times=34.316 ms, 33.918 ms, 35.223 ms
+64 bytes from 1.1.1.1 via probe #60479 (103.80.22.99): ttl=58 times=2.161 ms, 2.289 ms, 2.006 ms
+64 bytes from 1.1.1.1 via probe #1001549 (103.207.125.78): ttl=52 times=15.301 ms, 15.828 ms, 15.686 ms
+64 bytes from 1.1.1.1 via probe #28245 (49.36.123.27): ttl=52 times=4.596 ms, 5.06 ms, 7.635 ms
+64 bytes from 1.1.1.1 via probe #1004120 (45.64.190.62): ttl=59 times=1.535 ms, 1.581 ms, 1.574 ms
+64 bytes from 1.1.1.1 via probe #1007708 (106.51.74.118): ttl=55 times=9.32 ms, 8.842 ms, 9.473 ms
+64 bytes from 1.1.1.1 via probe #60512 (106.51.213.42): ttl=55 times=8.478 ms, 7.937 ms, 7.807 ms
+64 bytes from 1.1.1.1 via probe #1003619 (217.21.86.65): ttl=55 times=6.465 ms, 2.235 ms, 2.605 ms
+64 bytes from 1.1.1.1 via probe #1003620 (217.21.86.66): ttl=54 times=8.448 ms, 3.626 ms, 3.271 ms
+64 bytes from 1.1.1.1 via probe #7269 (116.206.155.229): ttl=60 times=12.083 ms, 12.079 ms, 12.07 ms
+64 bytes from 1.1.1.1 via probe #1003621 (217.21.86.67): ttl=54 times=7.579 ms, 3.093 ms, 4.016 ms
+64 bytes from 1.1.1.1 via probe #1003622 (217.21.86.68): ttl=55 times=7.021 ms, 3.14 ms, 3.196 ms
+64 bytes from 1.1.1.1 via probe #1003623 (217.21.86.69): ttl=55 times=5.863 ms, 2.271 ms, 2.36 ms
+64 bytes from 1.1.1.1 via probe #1003625 (217.21.86.71): ttl=55 times=6.447 ms, 2.686 ms, 2.479 ms
+64 bytes from 1.1.1.1 via probe #1003626 (217.21.86.72): ttl=55 times=8.869 ms, 3.845 ms, 2.448 ms
+64 bytes from 1.1.1.1 via probe #1003627 (217.21.86.73): ttl=55 times=6.575 ms, 2.872 ms, 2.459 ms
+64 bytes from 1.1.1.1 via probe #1003628 (217.21.86.74): ttl=54 times=6.218 ms, 2.625 ms, 2.35 ms
+64 bytes from 1.1.1.1 via probe #1003624 (217.21.86.70): ttl=55 times=7.097 ms, 2.472 ms, 1.738 ms
+64 bytes from 1.1.1.1 via probe #1003630 (217.21.86.76): ttl=55 times=6.253 ms, 2.228 ms, 2.889 ms
+64 bytes from 1.1.1.1 via probe #1003629 (217.21.86.75): ttl=54 times=5.655 ms, 2.535 ms, 3.187 ms
+64 bytes from 1.1.1.1 via probe #53360 (106.51.109.72): ttl=55 times=7.54 ms, 7.225 ms, 7.037 ms
+64 bytes from 1.1.1.1 via probe #1003631 (217.21.86.77): ttl=55 times=5.886 ms, 2.076 ms, 1.819 ms
+64 bytes from 1.1.1.1 via probe #1003632 (217.21.86.78): ttl=55 times=7.216 ms, 1.932 ms, 2.002 ms
+64 bytes from 1.1.1.1 via probe #1003633 (217.21.86.79): ttl=55 times=8.701 ms, 3.37 ms, 3.063 ms
+64 bytes from 1.1.1.1 via probe #1009260 (103.127.186.1): ttl=59 times=25.792 ms, 25.747 ms, 25.825 ms
+64 bytes from 1.1.1.1 via probe #62069 (49.37.251.62): ttl=53 times=9.563 ms, 9.365 ms, 9.133 ms
+64 bytes from 1.1.1.1 via probe #1008761 (103.68.108.26): ttl=59 times=1.282 ms, 1.341 ms, 1.179 ms
+64 bytes from 1.1.1.1 via probe #50302 (103.61.113.197): ttl=57 times=54.318 ms, 54.221 ms, 54.103 ms
+64 bytes from 1.1.1.1 via probe #1008783 (103.178.205.98): ttl=58 times=18.549 ms, 17.449 ms, 18.416 ms
+64 bytes from 1.1.1.1 via probe #1004134 (103.169.53.9): ttl=60 times=31.676 ms, 31.668 ms, 31.688 ms
+64 bytes from 1.1.1.1 via probe #60576 (103.136.39.207): ttl=58 times=23.135 ms, 22.934 ms, 22.575 ms
+64 bytes from 1.1.1.1 via probe #1004196 (144.24.117.26): ttl=57 times=1.492 ms, 1.473 ms, 1.391 ms
+64 bytes from 1.1.1.1 via probe #1000620 (103.126.228.10): ttl=61 times=1.934 ms, 0.984 ms, 0.985 ms
+64 bytes from 1.1.1.1 via probe #60592 (103.61.113.197): ttl=57 times=53.93 ms, 53.523 ms, 54.332 ms
+64 bytes from 1.1.1.1 via probe #1003696 (103.176.189.67): ttl=61 times=2.01 ms, 1.511 ms, 1.613 ms
+64 bytes from 1.1.1.1 via probe #1004211 (34.100.184.27): ttl=61 times=1.907 ms, 1.402 ms, 0.979 ms
+64 bytes from 1.1.1.1 via probe #61108 (106.219.156.104): ttl=59 times=4.28 ms, 3.512 ms, 4.569 ms
+64 bytes from 1.1.1.1 via probe #17590 (223.185.131.244): ttl=59 times=5.082 ms, 4.251 ms, 3.711 ms
+64 bytes from 1.1.1.1 via probe #1008317 (82.180.146.82): ttl=60 times=1.865 ms, 2.039 ms, 2.173 ms
+64 bytes from 1.1.1.1 via probe #1008829 (106.51.212.172): ttl=54 times=7.111 ms, 6.885 ms, 7.226 ms
+64 bytes from 1.1.1.1 via probe #61639 (103.215.237.232): ttl=60 times=3.672 ms, 3.477 ms, 3.455 ms
+64 bytes from 1.1.1.1 via probe #1008840 (103.240.104.235): ttl=61 times=1.251 ms, 1.157 ms, 1.181 ms
+64 bytes from 1.1.1.1 via probe #64718 (49.37.113.17): ttl=54 times=5.806 ms, 6.472 ms, 3.235 ms
+64 bytes from 1.1.1.1 via probe #7375 (103.136.36.102): ttl=60 times=20.906 ms, 20.956 ms, 20.841 ms
+64 bytes from 1.1.1.1 via probe #60627 (49.36.188.12): ttl=52 times=178.81 ms, 29.964 ms, 29.41 ms
+64 bytes from 1.1.1.1 via probe #60641 (117.197.158.165): ttl=56 times=46.362 ms, 46.116 ms, 45.925 ms
+64 bytes from 1.1.1.1 via probe #1007337 (106.213.82.176): ttl=59 times=9.525 ms, 9.469 ms, 9.058 ms
+64 bytes from 1.1.1.1 via probe #1001196 (125.99.222.171): ttl=54 times=28.959 ms, 28.792 ms, 28.655 ms
+64 bytes from 1.1.1.1 via probe #7405 (160.20.123.10): ttl=60 times=15.737 ms, 15.719 ms, 15.702 ms
+64 bytes from 1.1.1.1 via probe #1006316 (117.242.206.154): ttl=58 times=18.977 ms, 18.411 ms, 18.676 ms
+64 bytes from 1.1.1.1 via probe #62703 (49.36.181.160): ttl=52 times=31.313 ms, 33.662 ms, 35.988 ms
+64 bytes from 1.1.1.1 via probe #1003760 (216.48.177.108): ttl=56 times=35.167 ms, 35.222 ms, 35.165 ms
+64 bytes from 1.1.1.1 via probe #1000689 (148.113.20.147): ttl=None times=None ms, None ms, None ms
+64 bytes from 1.1.1.1 via probe #1003761 (101.53.133.86): ttl=57 times=1.574 ms, 1.375 ms, 1.449 ms
+64 bytes from 1.1.1.1 via probe #1006322 (202.65.147.199): ttl=54 times=16.747 ms, 16.953 ms, 16.965 ms
+64 bytes from 1.1.1.1 via probe #1007344 (139.5.254.31): ttl=57 times=5.384 ms, 5.834 ms, 6.926 ms
+64 bytes from 1.1.1.1 via probe #1008880 (160.20.123.11): ttl=60 times=16.551 ms, 14.948 ms, 14.915 ms
+64 bytes from 1.1.1.1 via probe #1008381 (157.10.98.129): ttl=59 times=0.968 ms, 1.003 ms, 0.964 ms
+64 bytes from 1.1.1.1 via probe #1004294 (129.226.29.96): ttl=57 times=1.664 ms, 1.662 ms, 1.651 ms
+64 bytes from 1.1.1.1 via probe #29959 (117.241.153.162): ttl=57 times=17.012 ms, 16.927 ms, 17.085 ms
+64 bytes from 1.1.1.1 via probe #1000203 (116.206.155.230): ttl=60 times=12.067 ms, 12.121 ms, 12.069 ms
+64 bytes from 1.1.1.1 via probe #64787 (49.205.150.202): ttl=56 times=11.057 ms, 11.59 ms, 11.825 ms
+64 bytes from 1.1.1.1 via probe #1008915 (103.199.173.12): ttl=55 times=2.819 ms, 2.747 ms, 3.113 ms
+64 bytes from 1.1.1.1 via probe #60694 (103.156.18.127): ttl=63 times=2.765 ms, 1.818 ms, 1.457 ms
+64 bytes from 1.1.1.1 via probe #1000726 (125.99.222.171): ttl=54 times=28.935 ms, 28.321 ms, 28.678 ms
+64 bytes from 1.1.1.1 via probe #1004312 (129.226.29.111): ttl=57 times=1.967 ms, 1.965 ms, 1.861 ms
+64 bytes from 1.1.1.1 via probe #1005849 (223.178.211.158): ttl=60 times=10.966 ms, 11.012 ms, 9.957 ms
+64 bytes from 1.1.1.1 via probe #1007722 (103.195.201.139): ttl=61 times=18.535 ms, 11.694 ms, 17.995 ms
+64 bytes from 1.1.1.1 via probe #25375 (203.193.179.28): ttl=58 times=46.264 ms, 46.058 ms, 46.134 ms
+64 bytes from 1.1.1.1 via probe #53537 (223.233.81.2): ttl=59 times=8.6 ms, 8.414 ms, 8.308 ms
+64 bytes from 1.1.1.1 via probe #62755 (103.212.147.138): ttl=58 times=4.49 ms, 4.698 ms, 5.519 ms
+64 bytes from 1.1.1.1 via probe #6953 (156.154.184.254): ttl=59 times=35.979 ms, 36.063 ms, 35.85 ms
+64 bytes from 1.1.1.1 via probe #6954 (156.154.183.254): ttl=59 times=26.791 ms, 26.828 ms, 26.861 ms
+64 bytes from 1.1.1.1 via probe #25398 (223.190.85.80): ttl=60 times=1.759 ms, 4.152 ms, 3.68 ms
+64 bytes from 1.1.1.1 via probe #6968 (159.65.150.114): ttl=59 times=0.967 ms, 1.09 ms, 0.927 ms
+64 bytes from 1.1.1.1 via probe #54081 (103.174.210.79): ttl=59 times=51.13 ms, 50.547 ms, 50.705 ms
+64 bytes from 1.1.1.1 via probe #1002818 (101.53.132.190): ttl=56 times=1.361 ms, 1.358 ms, 1.474 ms
+64 bytes from 1.1.1.1 via probe #62278 (203.192.235.164): ttl=57 times=27.193 ms, 26.832 ms, 27.428 ms
+64 bytes from 1.1.1.1 via probe #1009992 (49.47.195.13): ttl=52 times=19.275 ms, 19.127 ms, 18.676 ms
+64 bytes from 1.1.1.1 via probe #33101 (103.170.6.46): ttl=57 times=31.439 ms, 31.569 ms, 31.803 ms
+64 bytes from 1.1.1.1 via probe #24916 (38.183.39.145): ttl=55 times=41.221 ms, 40.892 ms, 40.748 ms
+64 bytes from 1.1.1.1 via probe #1003863 (129.154.237.210): ttl=57 times=1.658 ms, 1.65 ms, 1.633 ms
+64 bytes from 1.1.1.1 via probe #27480 (59.96.59.247): ttl=55 times=19.204 ms, 18.209 ms, 19.225 ms
+64 bytes from 1.1.1.1 via probe #1004375 (52.140.57.13): ttl=51 times=23.882 ms, 28.17 ms, 23.791 ms
+64 bytes from 1.1.1.1 via probe #1002842 (103.168.241.129): ttl=56 times=13.846 ms, 13.815 ms, 13.857 ms
+64 bytes from 1.1.1.1 via probe #54620 (117.215.203.111): ttl=55 times=21.431 ms, 20.786 ms, 21.241 ms
+64 bytes from 1.1.1.1 via probe #1008476 (103.97.46.3): ttl=59 times=3.376 ms, 3.445 ms, 3.449 ms
+64 bytes from 1.1.1.1 via probe #62302 (49.36.187.161): ttl=52 times=25.866 ms, 26.067 ms, 26.304 ms
+64 bytes from 1.1.1.1 via probe #1008995 (14.139.128.11): ttl=53 times=14.196 ms, 14.18 ms, 14.165 ms
+64 bytes from 1.1.1.1 via probe #53099 (103.160.46.3): ttl=58 times=24.58 ms, 24.064 ms, 24.265 ms
+64 bytes from 1.1.1.1 via probe #1003883 (143.244.135.25): ttl=59 times=2.284 ms, 0.874 ms, 0.94 ms
+64 bytes from 1.1.1.1 via probe #53613 (49.43.140.21): ttl=51 times=43.565 ms, 43.644 ms, 44.748 ms
+64 bytes from 1.1.1.1 via probe #62322 (49.36.223.217): ttl=52 times=31.09 ms, 30.8 ms, 30.707 ms
+64 bytes from 1.1.1.1 via probe #1003379 (13.233.37.136): ttl=57 times=1.481 ms, 1.539 ms, 1.486 ms
+64 bytes from 1.1.1.1 via probe #60276 (49.36.203.33): ttl=52 times=42.195 ms, 41.737 ms, 43.151 ms
+64 bytes from 1.1.1.1 via probe #1007478 (150.242.64.95): ttl=59 times=2.419 ms, 2.052 ms, 4.64 ms
+64 bytes from 1.1.1.1 via probe #1002359 (152.70.64.30): ttl=59 times=2.276 ms, 1.404 ms, 1.528 ms
+64 bytes from 1.1.1.1 via probe #1004419 (20.198.116.111): ttl=53 times=3.969 ms, 4.006 ms, 3.898 ms
+64 bytes from 1.1.1.1 via probe #62855 (103.92.43.249): ttl=59 times=3.387 ms, 3.566 ms, 3.662 ms
+64 bytes from 1.1.1.1 via probe #1008521 (202.164.150.234): ttl=57 times=17.19 ms, 16.762 ms, 17.212 ms
+64 bytes from 1.1.1.1 via probe #55694 (223.178.214.252): ttl=54 times=17.119 ms, 16.224 ms, 16.077 ms
+64 bytes from 1.1.1.1 via probe #60321 (103.179.9.13): ttl=58 times=2.865 ms, 2.968 ms, 2.726 ms
+64 bytes from 1.1.1.1 via probe #7077 (216.48.178.84): ttl=56 times=35.231 ms, 35.319 ms, 35.387 ms
+64 bytes from 1.1.1.1 via probe #1003949 (150.230.129.60): ttl=59 times=1.709 ms, 1.528 ms, 1.489 ms
+64 bytes from 1.1.1.1 via probe #1001390 (103.108.58.9): ttl=56 times=48.372 ms, 48.624 ms, 48.537 ms
+64 bytes from 1.1.1.1 via probe #1002932 (106.219.223.132): ttl=57 times=23.395 ms, 17.92 ms, 42.127 ms
+64 bytes from 1.1.1.1 via probe #60347 (106.222.207.101): ttl=59 times=4.596 ms, 3.677 ms, 5.54 ms
+64 bytes from 1.1.1.1 via probe #52159 (103.61.113.197): ttl=57 times=54.183 ms, 53.997 ms, 53.642 ms
+64 bytes from 1.1.1.1 via probe #60887 (103.46.201.149): ttl=58 times=5.149 ms, 4.309 ms, 3.968 ms
+64 bytes from 1.1.1.1 via probe #13785 (103.78.46.1): ttl=53 times=10.287 ms, 10.077 ms, 11.252 ms
+64 bytes from 1.1.1.1 via probe #1005020 (18.60.90.95): ttl=56 times=22.801 ms, 22.751 ms, 22.751 ms
+64 bytes from 1.1.1.1 via probe #25064 (122.160.115.175): ttl=59 times=5.048 ms, 4.353 ms, 4.662 ms
+64 bytes from 1.1.1.1 via probe #1008627 (122.173.27.104): ttl=60 times=14.146 ms, 13.675 ms, 15.416 ms
+64 bytes from 1.1.1.1 via probe #64509 (103.85.89.250): ttl=59 times=21.274 ms, 21.144 ms, 20.991 ms
+
+--- 1.1.1.1 ping statistics ---
+378 packets transmitted, 375 received, 0.794% loss
+rtt min/med/avg/max = 0.000/8.268/14.669/178.810 ms
+PING 1.1.1.1 (resolved on server)
+64 bytes from 1.1.1.1 via probe #1008222 (103.78.18.107): ttl=59 times=20.412 ms, 20.549 ms, 20.342 ms, 20.277 ms
+
+--- 1.1.1.1 ping statistics ---
+4 packets transmitted, 4 received, 0.0% loss
+rtt min/med/avg/max = 20.277/20.377/20.395/20.549 ms
+PING 1.1.1.1 (resolved on server)
+64 bytes from 1.1.1.1 via probe #62755 (103.212.147.138): ttl=58 times=6.544 ms, 6.063 ms, 5.868 ms, 6.121 ms
+
+--- 1.1.1.1 ping statistics ---
+4 packets transmitted, 4 received, 0.0% loss
+rtt min/med/avg/max = 5.868/6.092/6.149/6.544 ms
+PING 1.1.1.1 (resolved on server)
+64 bytes from 1.1.1.1 via probe #1007618 (113.192.4.14): ttl=58 times=13.942 ms, 13.97 ms, 14.037 ms
+64 bytes from 1.1.1.1 via probe #1000458 (202.53.8.243): ttl=58 times=0.713 ms, 0.616 ms, 0.751 ms
+64 bytes from 1.1.1.1 via probe #1004046 (103.250.184.188): ttl=57 times=25.943 ms, 22.983 ms, 25.897 ms
+64 bytes from 1.1.1.1 via probe #1004047 (159.89.171.96): ttl=59 times=1.97 ms, 1.023 ms, 1.125 ms
+64 bytes from 1.1.1.1 via probe #28176 (122.166.191.40): ttl=59 times=5.419 ms, 5.414 ms, 5.258 ms
+64 bytes from 1.1.1.1 via probe #1000979 (152.67.1.199): ttl=59 times=1.568 ms, 1.234 ms, 1.295 ms
+64 bytes from 1.1.1.1 via probe #62997 (122.161.50.222): ttl=59 times=8.602 ms, 2.929 ms, 6.739 ms
+64 bytes from 1.1.1.1 via probe #1008158 (5.188.228.45): ttl=55 times=2.131 ms, 2.002 ms, 2.054 ms
+64 bytes from 1.1.1.1 via probe #1000486 (117.254.175.122): ttl=58 times=15.683 ms, 14.604 ms, 14.512 ms
+64 bytes from 1.1.1.1 via probe #1005612 (223.226.80.85): ttl=58 times=5.504 ms, 7.782 ms, 6.995 ms
+64 bytes from 1.1.1.1 via probe #1001518 (103.108.57.27): ttl=57 times=40.597 ms, 41.248 ms, 41.081 ms
+64 bytes from 1.1.1.1 via probe #1005614 (49.206.2.26): ttl=56 times=15.107 ms, 14.999 ms, 14.879 ms
+64 bytes from 1.1.1.1 via probe #1009203 (202.173.127.203): ttl=57 times=3.94 ms, 4.027 ms, 3.999 ms
+64 bytes from 1.1.1.1 via probe #1004599 (49.43.96.118): ttl=52 times=30.603 ms, 31.413 ms, 30.998 ms
+64 bytes from 1.1.1.1 via probe #60479 (103.80.22.99): ttl=57 times=3.029 ms, 2.554 ms, 2.011 ms
+64 bytes from 1.1.1.1 via probe #1001549 (103.207.125.78): ttl=52 times=15.973 ms, 15.964 ms, 15.703 ms
+64 bytes from 1.1.1.1 via probe #28245 (49.36.123.27): ttl=52 times=4.715 ms, 6.042 ms, 7.886 ms
+64 bytes from 1.1.1.1 via probe #1004120 (45.64.190.62): ttl=58 times=1.146 ms, 1.207 ms, 1.107 ms
+64 bytes from 1.1.1.1 via probe #1007708 (122.166.69.18): ttl=53 times=15.964 ms, 15.594 ms, 15.775 ms
+64 bytes from 1.1.1.1 via probe #60512 (106.51.213.42): ttl=55 times=8.098 ms, 7.717 ms, 7.56 ms
+64 bytes from 1.1.1.1 via probe #1003619 (217.21.86.65): ttl=55 times=5.827 ms, 10.986 ms, 1.919 ms
+64 bytes from 1.1.1.1 via probe #1003620 (217.21.86.66): ttl=54 times=7.59 ms, 2.674 ms, 3.022 ms
+64 bytes from 1.1.1.1 via probe #7269 (116.206.155.229): ttl=60 times=11.036 ms, 10.988 ms, 10.935 ms
+64 bytes from 1.1.1.1 via probe #1003621 (217.21.86.67): ttl=54 times=6.317 ms, 2.384 ms, 2.239 ms
+64 bytes from 1.1.1.1 via probe #1003622 (217.21.86.68): ttl=55 times=5.659 ms, 2.418 ms, 3.046 ms
+64 bytes from 1.1.1.1 via probe #1003623 (217.21.86.69): ttl=55 times=6.986 ms, 2.586 ms, 2.707 ms
+64 bytes from 1.1.1.1 via probe #1003625 (217.21.86.71): ttl=55 times=7.792 ms, 3.015 ms, 2.829 ms
+64 bytes from 1.1.1.1 via probe #1003626 (217.21.86.72): ttl=55 times=6.483 ms, 2.056 ms, 1.768 ms
+64 bytes from 1.1.1.1 via probe #1003627 (217.21.86.73): ttl=55 times=7.938 ms, 2.78 ms, 2.249 ms
+64 bytes from 1.1.1.1 via probe #1003628 (217.21.86.74): ttl=54 times=5.375 ms, 2.067 ms, 2.153 ms
+64 bytes from 1.1.1.1 via probe #1003624 (217.21.86.70): ttl=55 times=6.319 ms, 1.953 ms, 1.898 ms
+64 bytes from 1.1.1.1 via probe #1003630 (217.21.86.76): ttl=55 times=7.146 ms, 2.471 ms, 1.63 ms
+64 bytes from 1.1.1.1 via probe #1003629 (217.21.86.75): ttl=54 times=6.984 ms, 2.398 ms, 2.668 ms
+64 bytes from 1.1.1.1 via probe #53360 (106.51.109.72): ttl=55 times=7.298 ms, 6.906 ms, 6.875 ms
+64 bytes from 1.1.1.1 via probe #1003631 (217.21.86.77): ttl=55 times=7.839 ms, 1.799 ms, 1.92 ms
+64 bytes from 1.1.1.1 via probe #1003632 (217.21.86.78): ttl=55 times=6.426 ms, 2.132 ms, 1.863 ms
+64 bytes from 1.1.1.1 via probe #1003633 (217.21.86.79): ttl=55 times=6.679 ms, 3.136 ms, 2.92 ms
+64 bytes from 1.1.1.1 via probe #1009260 (103.127.186.1): ttl=61 times=12.465 ms, 12.411 ms, 12.449 ms
+64 bytes from 1.1.1.1 via probe #62069 (49.37.251.62): ttl=53 times=8.692 ms, 9.172 ms, 9.343 ms
+64 bytes from 1.1.1.1 via probe #1008761 (103.68.108.26): ttl=59 times=1.456 ms, 1.194 ms, 1.244 ms
+64 bytes from 1.1.1.1 via probe #50302 (103.61.113.197): ttl=57 times=61.269 ms, 61.416 ms, 61.215 ms
+64 bytes from 1.1.1.1 via probe #1008783 (103.177.253.119): ttl=58 times=18.818 ms, 29.2 ms, 17.3 ms
+64 bytes from 1.1.1.1 via probe #1004134 (103.169.53.9): ttl=60 times=31.034 ms, 30.969 ms, 30.988 ms
+64 bytes from 1.1.1.1 via probe #60576 (103.136.39.207): ttl=58 times=21.62 ms, 21.451 ms, 21.625 ms
+64 bytes from 1.1.1.1 via probe #1004196 (144.24.117.26): ttl=59 times=1.323 ms, 1.205 ms, 1.209 ms
+64 bytes from 1.1.1.1 via probe #1000620 (103.126.228.10): ttl=61 times=1.227 ms, 1.115 ms, 1.298 ms
+64 bytes from 1.1.1.1 via probe #60592 (103.61.113.197): ttl=57 times=62.006 ms, 61.273 ms, 61.473 ms
+64 bytes from 1.1.1.1 via probe #1003696 (103.176.189.67): ttl=61 times=1.887 ms, 1.459 ms, 1.51 ms
+64 bytes from 1.1.1.1 via probe #1004211 (34.100.184.27): ttl=61 times=2.057 ms, 1.072 ms, 1.107 ms
+64 bytes from 1.1.1.1 via probe #61108 (106.219.156.104): ttl=59 times=4.038 ms, 4.356 ms, 4.218 ms
+64 bytes from 1.1.1.1 via probe #17590 (223.185.135.91): ttl=59 times=7.017 ms, 6.353 ms, 5.766 ms
+64 bytes from 1.1.1.1 via probe #1008317 (82.180.146.82): ttl=60 times=1.921 ms, 1.86 ms, 1.859 ms
+64 bytes from 1.1.1.1 via probe #1008829 (106.51.214.47): ttl=54 times=6.902 ms, 7.002 ms, 7.276 ms
+64 bytes from 1.1.1.1 via probe #61639 (103.215.237.232): ttl=60 times=2.847 ms, 2.986 ms, 7.589 ms
+64 bytes from 1.1.1.1 via probe #1008840 (103.240.104.235): ttl=61 times=1.198 ms, 1.173 ms, 1.139 ms
+64 bytes from 1.1.1.1 via probe #64718 (49.37.113.7): ttl=54 times=6.142 ms, 5.326 ms, 4.22 ms
+64 bytes from 1.1.1.1 via probe #7375 (103.136.36.102): ttl=60 times=19.706 ms, 19.611 ms, 19.611 ms
+64 bytes from 1.1.1.1 via probe #28879 (117.247.92.170): ttl=57 times=11.578 ms, 11.19 ms, 11.105 ms
+64 bytes from 1.1.1.1 via probe #60627 (49.36.188.12): ttl=52 times=40.073 ms, 35.107 ms, 33.502 ms
+64 bytes from 1.1.1.1 via probe #60641 (117.197.157.81): ttl=56 times=48.277 ms, 48.823 ms, 48.987 ms
+64 bytes from 1.1.1.1 via probe #1007337 (106.213.82.176): ttl=59 times=9.615 ms, 9.338 ms, 9.342 ms
+64 bytes from 1.1.1.1 via probe #1001196 (116.74.22.187): ttl=54 times=27.534 ms, 27.536 ms, 27.035 ms
+64 bytes from 1.1.1.1 via probe #7405 (160.20.123.10): ttl=56 times=22.095 ms, 21.909 ms, 22.027 ms
+64 bytes from 1.1.1.1 via probe #1006316 (59.182.127.164): ttl=55 times=18.725 ms, 19.263 ms, 19.264 ms
+64 bytes from 1.1.1.1 via probe #62703 (49.36.181.160): ttl=52 times=40.481 ms, 39.73 ms, 40.143 ms
+64 bytes from 1.1.1.1 via probe #1003760 (216.48.177.108): ttl=56 times=37.083 ms, 36.91 ms, 36.998 ms
+64 bytes from 1.1.1.1 via probe #1000689 (148.113.20.147): ttl=None times=None ms, None ms, None ms
+64 bytes from 1.1.1.1 via probe #1003761 (101.53.133.86): ttl=57 times=1.533 ms, 1.546 ms, 3.038 ms
+64 bytes from 1.1.1.1 via probe #1006322 (202.65.147.199): ttl=54 times=17.446 ms, 17.855 ms, 17.824 ms
+64 bytes from 1.1.1.1 via probe #1007344 (139.5.254.31): ttl=57 times=4.3 ms, 5.991 ms, 5.725 ms
+64 bytes from 1.1.1.1 via probe #1008880 (160.20.123.11): ttl=56 times=22.463 ms, 22.377 ms, 22.445 ms
+64 bytes from 1.1.1.1 via probe #1008381 (157.10.98.129): ttl=59 times=0.998 ms, 1.024 ms, 0.975 ms
+64 bytes from 1.1.1.1 via probe #1004294 (129.226.29.96): ttl=57 times=1.655 ms, 1.714 ms, 1.659 ms
+64 bytes from 1.1.1.1 via probe #29959 (117.241.155.106): ttl=57 times=19.321 ms, 19.036 ms, 19.045 ms
+64 bytes from 1.1.1.1 via probe #1000203 (116.206.155.230): ttl=60 times=10.926 ms, 10.969 ms, 11.011 ms
+64 bytes from 1.1.1.1 via probe #64787 (49.205.144.253): ttl=56 times=18.32 ms, 17.835 ms, 18.574 ms
+64 bytes from 1.1.1.1 via probe #1008915 (203.192.235.164): ttl=59 times=2.348 ms, 2.378 ms, 2.4 ms
+64 bytes from 1.1.1.1 via probe #60694 (103.156.18.126): ttl=63 times=2.02 ms, 1.992 ms, 1.243 ms
+64 bytes from 1.1.1.1 via probe #1000726 (116.74.22.187): ttl=54 times=27.461 ms, 27.487 ms, 27.023 ms
+64 bytes from 1.1.1.1 via probe #1004312 (129.226.29.111): ttl=57 times=1.902 ms, 1.875 ms, 1.926 ms
+64 bytes from 1.1.1.1 via probe #1005849 (223.178.211.158): ttl=60 times=13.28 ms, 12.162 ms, 12.116 ms
+64 bytes from 1.1.1.1 via probe #1007722 (103.195.201.9): ttl=61 times=6.862 ms, 4.34 ms, 3.683 ms
+64 bytes from 1.1.1.1 via probe #25375 (203.193.179.28): ttl=58 times=48.652 ms, 48.474 ms, 48.377 ms
+64 bytes from 1.1.1.1 via probe #53537 (223.233.83.133): ttl=59 times=8.737 ms, 8.732 ms, 8.621 ms
+64 bytes from 1.1.1.1 via probe #62755 (103.212.147.84): ttl=58 times=5.139 ms, 5.681 ms, 4.749 ms
+64 bytes from 1.1.1.1 via probe #6953 (156.154.184.254): ttl=59 times=41.336 ms, 41.309 ms, 41.354 ms
+64 bytes from 1.1.1.1 via probe #6954 (156.154.183.254): ttl=59 times=18.45 ms, 18.483 ms, 18.499 ms
+64 bytes from 1.1.1.1 via probe #25398 (223.190.84.22): ttl=60 times=4.091 ms, 4.684 ms, 4.366 ms
+64 bytes from 1.1.1.1 via probe #6968 (159.65.150.114): ttl=59 times=0.808 ms, 0.813 ms, 0.786 ms
+64 bytes from 1.1.1.1 via probe #54081 (103.174.210.51): ttl=59 times=49.932 ms, 49.48 ms, 49.417 ms
+64 bytes from 1.1.1.1 via probe #1002818 (101.53.132.190): ttl=56 times=1.34 ms, 1.423 ms, 1.466 ms
+64 bytes from 1.1.1.1 via probe #62278 (203.192.235.164): ttl=60 times=1.961 ms, 2.528 ms, 2.503 ms
+64 bytes from 1.1.1.1 via probe #1009992 (49.47.195.13): ttl=52 times=18.938 ms, 19.557 ms, 19.336 ms
+64 bytes from 1.1.1.1 via probe #33101 (103.170.6.46): ttl=57 times=35.097 ms, 34.507 ms, 34.741 ms
+64 bytes from 1.1.1.1 via probe #24916 (103.114.66.229): ttl=55 times=49.522 ms, 50.037 ms, 50.057 ms
+64 bytes from 1.1.1.1 via probe #1003863 (129.154.237.210): ttl=59 times=1.258 ms, 1.254 ms, 1.254 ms
+64 bytes from 1.1.1.1 via probe #27480 (59.96.59.247): ttl=55 times=21.31 ms, 21.657 ms, 20.588 ms
+64 bytes from 1.1.1.1 via probe #1004375 (52.140.57.13): ttl=51 times=23.819 ms, 23.909 ms, 23.897 ms
+64 bytes from 1.1.1.1 via probe #1002842 (103.168.241.129): ttl=56 times=14.968 ms, 14.907 ms, 14.905 ms
+64 bytes from 1.1.1.1 via probe #54620 (117.215.199.98): ttl=55 times=37.784 ms, 37.326 ms, 37.012 ms
+64 bytes from 1.1.1.1 via probe #1008476 (103.97.46.3): ttl=59 times=3.724 ms, 3.46 ms, 3.529 ms
+64 bytes from 1.1.1.1 via probe #62302 (49.36.187.161): ttl=52 times=31.312 ms, 29.901 ms, 30.243 ms
+64 bytes from 1.1.1.1 via probe #1008995 (14.139.128.11): ttl=53 times=17.977 ms, 17.996 ms, 18.066 ms
+64 bytes from 1.1.1.1 via probe #53099 (103.160.46.3): ttl=58 times=24.912 ms, 24.248 ms, 24.184 ms
+64 bytes from 1.1.1.1 via probe #1003883 (143.244.135.25): ttl=59 times=2.021 ms, 0.877 ms, 0.882 ms
+64 bytes from 1.1.1.1 via probe #53613 (49.43.140.21): ttl=51 times=43.478 ms, 44.068 ms, 45.534 ms
+64 bytes from 1.1.1.1 via probe #62322 (49.36.223.217): ttl=52 times=39.718 ms, 39.279 ms, 38.23 ms
+64 bytes from 1.1.1.1 via probe #1003379 (13.233.37.136): ttl=54 times=1.184 ms, 1.177 ms, 1.177 ms
+64 bytes from 1.1.1.1 via probe #60276 (49.36.203.33): ttl=52 times=44.4 ms, 43.232 ms, 44.202 ms
+64 bytes from 1.1.1.1 via probe #1007478 (103.240.195.100): ttl=59 times=2.702 ms, 2.041 ms, 4.921 ms
+64 bytes from 1.1.1.1 via probe #1002359 (152.70.64.30): ttl=59 times=2.959 ms, 1.954 ms, 2.095 ms
+64 bytes from 1.1.1.1 via probe #1004419 (20.198.116.111): ttl=53 times=3.682 ms, 3.851 ms, 3.82 ms
+64 bytes from 1.1.1.1 via probe #62855 (103.92.43.119): ttl=59 times=3.719 ms, 2.805 ms, 3.371 ms
+64 bytes from 1.1.1.1 via probe #1008521 (202.164.150.234): ttl=57 times=20.064 ms, 19.802 ms, 19.935 ms
+64 bytes from 1.1.1.1 via probe #55694 (117.247.236.144): ttl=54 times=14.635 ms, 13.976 ms, 14.142 ms
+64 bytes from 1.1.1.1 via probe #60321 (103.179.9.13): ttl=58 times=2.899 ms, 2.914 ms, 2.896 ms
+64 bytes from 1.1.1.1 via probe #7077 (216.48.178.84): ttl=56 times=37.491 ms, 37.428 ms, 37.49 ms
+64 bytes from 1.1.1.1 via probe #1003949 (150.230.129.60): ttl=59 times=41.048 ms, 1.491 ms, 1.432 ms
+64 bytes from 1.1.1.1 via probe #1001390 (103.108.58.9): ttl=56 times=44.642 ms, 44.94 ms, 44.663 ms
+64 bytes from 1.1.1.1 via probe #1002932 (106.205.168.181): ttl=57 times=35.746 ms, 47.904 ms, 46.88 ms
+64 bytes from 1.1.1.1 via probe #60347 (106.222.209.216): ttl=58 times=3.811 ms, 2.892 ms, 4.542 ms
+64 bytes from 1.1.1.1 via probe #52159 (103.61.113.197): ttl=57 times=61.164 ms, 60.751 ms, 60.904 ms
+64 bytes from 1.1.1.1 via probe #60887 (103.46.201.125): ttl=58 times=3.611 ms, 5.127 ms, 4.546 ms
+64 bytes from 1.1.1.1 via probe #13785 (103.78.46.1): ttl=53 times=8.924 ms, 9.044 ms, 11.054 ms
+64 bytes from 1.1.1.1 via probe #1005020 (18.60.90.95): ttl=56 times=22.695 ms, 22.695 ms, 22.684 ms
+64 bytes from 1.1.1.1 via probe #25064 (122.160.115.175): ttl=59 times=4.13 ms, 3.957 ms, 4.303 ms
+64 bytes from 1.1.1.1 via probe #1008627 (122.173.27.104): ttl=60 times=13.96 ms, 12.094 ms, 15.071 ms
+64 bytes from 1.1.1.1 via probe #64509 (103.85.89.250): ttl=59 times=22.059 ms, 21.882 ms, 21.756 ms
+
+--- 1.1.1.1 ping statistics ---
+384 packets transmitted, 381 received, 0.781% loss
+rtt min/med/avg/max = 0.000/7.749/14.792/62.006 ms
+PING 1.1.1.1 (resolved on server)
+64 bytes from 1.1.1.1 via probe #1007618 (113.192.4.14): ttl=57 times=14.271 ms, 14.418 ms, 14.363 ms
+64 bytes from 1.1.1.1 via probe #1000458 (202.53.8.243): ttl=58 times=0.656 ms, 0.59 ms, 0.592 ms
+64 bytes from 1.1.1.1 via probe #1004046 (103.250.184.188): ttl=57 times=36.194 ms, 29.118 ms, 29.123 ms
+64 bytes from 1.1.1.1 via probe #1004047 (159.89.171.96): ttl=59 times=2.308 ms, 0.918 ms, 0.916 ms
+64 bytes from 1.1.1.1 via probe #28176 (122.166.191.40): ttl=59 times=5.653 ms, 5.188 ms, 5.375 ms
+64 bytes from 1.1.1.1 via probe #1000979 (152.67.1.199): ttl=57 times=3.334 ms, 2.1 ms, 1.345 ms
+64 bytes from 1.1.1.1 via probe #62997 (122.161.48.112): ttl=59 times=4.965 ms, 4.162 ms, 6.408 ms
+64 bytes from 1.1.1.1 via probe #1008158 (5.188.228.45): ttl=55 times=2.581 ms, 2.312 ms, 2.426 ms
+64 bytes from 1.1.1.1 via probe #1000486 (117.254.167.238): ttl=58 times=18.934 ms, 20.721 ms, 20.052 ms
+64 bytes from 1.1.1.1 via probe #1005612 (171.79.122.0): ttl=58 times=6.039 ms, 4.337 ms, 6.869 ms
+64 bytes from 1.1.1.1 via probe #1001518 (103.108.57.27): ttl=57 times=53.844 ms, 53.684 ms, 53.413 ms
+64 bytes from 1.1.1.1 via probe #1005614 (49.206.2.26): ttl=56 times=15.066 ms, 14.946 ms, 15.026 ms
+64 bytes from 1.1.1.1 via probe #1009203 (202.173.127.171): ttl=57 times=3.5 ms, 3.935 ms, 4.349 ms
+64 bytes from 1.1.1.1 via probe #1004599 (49.43.96.118): ttl=52 times=32.272 ms, 33.865 ms, 33.092 ms
+64 bytes from 1.1.1.1 via probe #60479 (103.80.22.99): ttl=57 times=2.656 ms, 2.697 ms, 2.247 ms
+64 bytes from 1.1.1.1 via probe #1001549 (103.207.125.78): ttl=51 times=24.735 ms, 24.518 ms, 24.899 ms
+64 bytes from 1.1.1.1 via probe #28245 (49.36.121.49): ttl=52 times=7.533 ms, 8.202 ms, 5.387 ms
+64 bytes from 1.1.1.1 via probe #1004120 (45.64.190.62): ttl=59 times=2.385 ms, 1.405 ms, 1.408 ms
+64 bytes from 1.1.1.1 via probe #1007708 (122.166.69.18): ttl=53 times=16.204 ms, 15.708 ms, 15.714 ms
+64 bytes from 1.1.1.1 via probe #60512 (106.51.210.36): ttl=55 times=8.371 ms, 7.935 ms, 7.703 ms
+64 bytes from 1.1.1.1 via probe #1003619 (217.21.86.65): ttl=55 times=9.52 ms, 1.895 ms, 2.117 ms
+64 bytes from 1.1.1.1 via probe #1003620 (217.21.86.66): ttl=54 times=8.919 ms, 3.116 ms, 2.939 ms
+64 bytes from 1.1.1.1 via probe #7269 (116.206.155.229): ttl=60 times=10.847 ms, 10.864 ms, 10.878 ms
+64 bytes from 1.1.1.1 via probe #1003621 (217.21.86.67): ttl=54 times=5.96 ms, 2.732 ms, 2.838 ms
+64 bytes from 1.1.1.1 via probe #1003622 (217.21.86.68): ttl=55 times=7.177 ms, 3.285 ms, 3.398 ms
+64 bytes from 1.1.1.1 via probe #1003623 (217.21.86.69): ttl=55 times=14.757 ms, 2.804 ms, 2.511 ms
+64 bytes from 1.1.1.1 via probe #1003625 (217.21.86.71): ttl=55 times=7.216 ms, 2.293 ms, 2.731 ms
+64 bytes from 1.1.1.1 via probe #1003626 (217.21.86.72): ttl=55 times=11.585 ms, 1.27 ms, 1.242 ms
+64 bytes from 1.1.1.1 via probe #1003627 (217.21.86.73): ttl=55 times=10.452 ms, 2.687 ms, 2.391 ms
+64 bytes from 1.1.1.1 via probe #1003628 (217.21.86.74): ttl=54 times=5.373 ms, 2.833 ms, 1.919 ms
+64 bytes from 1.1.1.1 via probe #1003624 (217.21.86.70): ttl=55 times=7.952 ms, 2.522 ms, 3.377 ms
+64 bytes from 1.1.1.1 via probe #1003630 (217.21.86.76): ttl=55 times=9.139 ms, 1.586 ms, 1.814 ms
+64 bytes from 1.1.1.1 via probe #1003629 (217.21.86.75): ttl=54 times=6.683 ms, 2.758 ms, 2.824 ms
+64 bytes from 1.1.1.1 via probe #53360 (106.51.109.72): ttl=55 times=7.346 ms, 6.916 ms, 6.956 ms
+64 bytes from 1.1.1.1 via probe #1003631 (217.21.86.77): ttl=55 times=6.694 ms, 1.679 ms, 1.736 ms
+64 bytes from 1.1.1.1 via probe #1003632 (217.21.86.78): ttl=55 times=5.323 ms, 2.037 ms, 2.352 ms
+64 bytes from 1.1.1.1 via probe #1003633 (217.21.86.79): ttl=55 times=8.101 ms, 2.9 ms, 4.264 ms
+64 bytes from 1.1.1.1 via probe #1009260 (103.127.186.1): ttl=59 times=30.689 ms, 30.715 ms, 30.729 ms
+64 bytes from 1.1.1.1 via probe #62069 (49.37.251.62): ttl=53 times=9.382 ms, 8.572 ms, 9.215 ms
+64 bytes from 1.1.1.1 via probe #1008761 (103.68.108.26): ttl=59 times=1.905 ms, 1.164 ms, 1.141 ms
+64 bytes from 1.1.1.1 via probe #50302 (103.61.113.228): ttl=57 times=61.146 ms, 60.587 ms, 60.499 ms
+64 bytes from 1.1.1.1 via probe #1008783 (103.178.205.110): ttl=58 times=18.842 ms, 16.578 ms, 15.532 ms
+64 bytes from 1.1.1.1 via probe #1004134 (103.169.53.9): ttl=60 times=31.196 ms, 31.188 ms, 31.089 ms
+64 bytes from 1.1.1.1 via probe #60576 (103.136.39.207): ttl=58 times=21.412 ms, 21.192 ms, 21.803 ms
+64 bytes from 1.1.1.1 via probe #1004196 (144.24.117.26): ttl=57 times=1.379 ms, 1.292 ms, 1.243 ms
+64 bytes from 1.1.1.1 via probe #1000620 (103.126.228.10): ttl=61 times=2.433 ms, 1.19 ms, 1.034 ms
+64 bytes from 1.1.1.1 via probe #60592 (103.61.113.228): ttl=57 times=60.247 ms, 60.357 ms, 60.918 ms
+64 bytes from 1.1.1.1 via probe #1003696 (103.176.189.67): ttl=61 times=1.88 ms, 1.281 ms, 1.605 ms
+64 bytes from 1.1.1.1 via probe #1004211 (34.100.184.27): ttl=61 times=3.641 ms, 1.099 ms, 1.113 ms
+64 bytes from 1.1.1.1 via probe #61108 (106.219.156.104): ttl=59 times=4.247 ms, 3.55 ms, 4.85 ms
+64 bytes from 1.1.1.1 via probe #17590 (223.185.130.100): ttl=59 times=4.511 ms, 5.509 ms, 4.591 ms
+64 bytes from 1.1.1.1 via probe #1008317 (82.180.146.82): ttl=60 times=1.947 ms, 1.866 ms, 2.246 ms
+64 bytes from 1.1.1.1 via probe #1008829 (106.51.212.166): ttl=54 times=7.285 ms, 7.174 ms, 7.276 ms
+64 bytes from 1.1.1.1 via probe #61639 (103.215.237.177): ttl=60 times=7.522 ms, 6.124 ms, 3.491 ms
+64 bytes from 1.1.1.1 via probe #1008840 (103.240.104.235): ttl=61 times=1.171 ms, 1.154 ms, 1.131 ms
+64 bytes from 1.1.1.1 via probe #64718 (49.37.113.80): ttl=52 times=38.574 ms, 37.235 ms, 37.356 ms
+64 bytes from 1.1.1.1 via probe #7375 (103.136.36.102): ttl=60 times=19.703 ms, 19.65 ms, 19.612 ms
+64 bytes from 1.1.1.1 via probe #28879 (117.247.92.170): ttl=57 times=12.718 ms, 12.686 ms, 12.604 ms
+64 bytes from 1.1.1.1 via probe #60627 (49.36.188.12): ttl=52 times=35.152 ms, 28.673 ms, 27.993 ms
+64 bytes from 1.1.1.1 via probe #60641 (117.214.131.151): ttl=55 times=56.269 ms, 55.68 ms, 55.97 ms
+64 bytes from 1.1.1.1 via probe #1007337 (106.213.83.214): ttl=59 times=9.753 ms, 9.81 ms, 9.558 ms
+64 bytes from 1.1.1.1 via probe #1001196 (27.7.227.171): ttl=55 times=31.737 ms, 31.648 ms, 31.354 ms
+64 bytes from 1.1.1.1 via probe #7405 (160.20.123.10): ttl=56 times=25.803 ms, 25.704 ms, 25.742 ms
+64 bytes from 1.1.1.1 via probe #1006316 (117.242.236.105): ttl=55 times=21.664 ms, 21.597 ms, 21.674 ms
+64 bytes from 1.1.1.1 via probe #62703 (49.36.181.188): ttl=52 times=30.486 ms, 27.774 ms, 29.132 ms
+64 bytes from 1.1.1.1 via probe #1003760 (216.48.177.108): ttl=57 times=38.575 ms, 38.477 ms, 38.616 ms
+64 bytes from 1.1.1.1 via probe #1000689 (148.113.20.147): ttl=None times=None ms, None ms, None ms
+64 bytes from 1.1.1.1 via probe #1003761 (101.53.133.86): ttl=57 times=1.52 ms, 1.682 ms, 1.402 ms
+64 bytes from 1.1.1.1 via probe #1006322 (202.65.147.199): ttl=54 times=14.916 ms, 15.133 ms, 15.103 ms
+64 bytes from 1.1.1.1 via probe #1007344 (139.5.254.58): ttl=57 times=4.964 ms, 6.674 ms, 13.385 ms
+64 bytes from 1.1.1.1 via probe #1008880 (160.20.123.11): ttl=56 times=25.051 ms, 25.091 ms, 25.011 ms
+64 bytes from 1.1.1.1 via probe #1008381 (157.10.98.129): ttl=59 times=0.984 ms, 0.922 ms, 1.232 ms
+64 bytes from 1.1.1.1 via probe #1004294 (129.226.29.96): ttl=57 times=1.494 ms, 1.554 ms, 1.528 ms
+64 bytes from 1.1.1.1 via probe #29959 (117.241.152.96): ttl=57 times=21.193 ms, 20.83 ms, 20.914 ms
+64 bytes from 1.1.1.1 via probe #1000203 (116.206.155.230): ttl=60 times=10.85 ms, 10.824 ms, 10.852 ms
+64 bytes from 1.1.1.1 via probe #64787 (49.205.144.253): ttl=56 times=19.619 ms, 19.514 ms, 19.385 ms
+64 bytes from 1.1.1.1 via probe #1008915 (203.192.235.164): ttl=59 times=2.475 ms, 1.711 ms, 1.637 ms
+64 bytes from 1.1.1.1 via probe #60694 (103.156.18.126): ttl=63 times=2.483 ms, 1.186 ms, 1.284 ms
+64 bytes from 1.1.1.1 via probe #1000726 (27.7.227.171): ttl=55 times=32.188 ms, 31.881 ms, 31.4 ms
+64 bytes from 1.1.1.1 via probe #1004312 (129.226.29.111): ttl=57 times=1.938 ms, 1.866 ms, 1.89 ms
+64 bytes from 1.1.1.1 via probe #1005849 (223.178.210.42): ttl=60 times=14.564 ms, 14.608 ms, 14.497 ms
+64 bytes from 1.1.1.1 via probe #1007722 (103.208.70.254): ttl=61 times=4.342 ms, 4.31 ms, 5.469 ms
+64 bytes from 1.1.1.1 via probe #25375 (203.193.179.28): ttl=58 times=53.31 ms, 53.23 ms, 53.34 ms
+64 bytes from 1.1.1.1 via probe #53537 (223.233.80.147): ttl=59 times=14.156 ms, 13.672 ms, 13.67 ms
+64 bytes from 1.1.1.1 via probe #62755 (103.212.147.84): ttl=58 times=5.946 ms, 4.763 ms, 5.448 ms
+64 bytes from 1.1.1.1 via probe #6953 (156.154.184.254): ttl=59 times=36.027 ms, 36.038 ms, 35.846 ms
+64 bytes from 1.1.1.1 via probe #6954 (156.154.183.254): ttl=59 times=20.87 ms, 20.865 ms, 21.093 ms
+64 bytes from 1.1.1.1 via probe #25398 (223.190.85.36): ttl=60 times=2.455 ms, 2.093 ms, 3.123 ms
+64 bytes from 1.1.1.1 via probe #6968 (159.65.150.114): ttl=59 times=0.934 ms, 0.985 ms, 0.829 ms
+64 bytes from 1.1.1.1 via probe #54081 (103.174.210.51): ttl=59 times=54.61 ms, 54.138 ms, 53.974 ms
+64 bytes from 1.1.1.1 via probe #1002818 (101.53.132.190): ttl=56 times=1.84 ms, 1.538 ms, 1.407 ms
+64 bytes from 1.1.1.1 via probe #62278 (203.192.235.164): ttl=60 times=2.537 ms, 2.171 ms, 2.229 ms
+64 bytes from 1.1.1.1 via probe #1009992 (49.47.195.13): ttl=52 times=20.018 ms, 18.785 ms, 18.829 ms
+64 bytes from 1.1.1.1 via probe #33101 (103.170.6.46): ttl=57 times=32.837 ms, 33.314 ms, 32.666 ms
+64 bytes from 1.1.1.1 via probe #24916 (103.114.66.229): ttl=55 times=50.159 ms, 50.739 ms, 50.718 ms
+64 bytes from 1.1.1.1 via probe #1003863 (129.154.237.210): ttl=57 times=1.26 ms, 1.279 ms, 1.329 ms
+64 bytes from 1.1.1.1 via probe #27480 (59.96.59.247): ttl=55 times=20.108 ms, 19.651 ms, 18.17 ms
+64 bytes from 1.1.1.1 via probe #1004375 (52.140.57.13): ttl=51 times=28.147 ms, 20.913 ms, 20.375 ms
+64 bytes from 1.1.1.1 via probe #54620 (117.216.80.141): ttl=55 times=23.894 ms, 23.215 ms, 22.637 ms
+64 bytes from 1.1.1.1 via probe #1008476 (103.97.46.3): ttl=59 times=3.643 ms, 3.416 ms, 3.3 ms
+64 bytes from 1.1.1.1 via probe #62302 (49.36.187.161): ttl=52 times=25.854 ms, 26.077 ms, 25.785 ms
+64 bytes from 1.1.1.1 via probe #1008995 (14.139.128.11): ttl=53 times=18.963 ms, 18.998 ms, 18.908 ms
+64 bytes from 1.1.1.1 via probe #53099 (103.160.46.3): ttl=58 times=27.757 ms, 27.522 ms, 27.507 ms
+64 bytes from 1.1.1.1 via probe #1003883 (143.244.135.25): ttl=59 times=1.926 ms, 0.882 ms, 0.857 ms
+64 bytes from 1.1.1.1 via probe #53613 (59.183.205.79): ttl=55 times=20.273 ms, 20.319 ms, 19.814 ms
+64 bytes from 1.1.1.1 via probe #62322 (49.36.223.217): ttl=52 times=31.649 ms, 30.682 ms, 30.764 ms
+64 bytes from 1.1.1.1 via probe #1003379 (13.233.37.136): ttl=54 times=1.162 ms, 1.181 ms, 1.203 ms
+64 bytes from 1.1.1.1 via probe #60276 (49.36.203.33): ttl=52 times=43.676 ms, 43.148 ms, 43.079 ms
+64 bytes from 1.1.1.1 via probe #1007478 (103.240.194.70): ttl=59 times=3.301 ms, 4.355 ms, 2.096 ms
+64 bytes from 1.1.1.1 via probe #1002359 (152.70.64.30): ttl=59 times=1.553 ms, 1.638 ms, 3.109 ms
+64 bytes from 1.1.1.1 via probe #1004419 (20.198.116.111): ttl=53 times=3.851 ms, 3.85 ms, 3.931 ms
+64 bytes from 1.1.1.1 via probe #62855 (146.196.32.174): ttl=59 times=3.578 ms, 3.657 ms, 3.126 ms
+64 bytes from 1.1.1.1 via probe #1008521 (202.164.150.234): ttl=57 times=18.441 ms, 17.801 ms, 17.795 ms
+64 bytes from 1.1.1.1 via probe #55694 (117.247.236.144): ttl=55 times=14.649 ms, 14.172 ms, 14.036 ms
+64 bytes from 1.1.1.1 via probe #60321 (103.179.9.13): ttl=58 times=2.94 ms, 2.936 ms, 2.943 ms
+64 bytes from 1.1.1.1 via probe #7077 (216.48.178.84): ttl=57 times=39.256 ms, 39.06 ms, 39.067 ms
+64 bytes from 1.1.1.1 via probe #1003949 (150.230.129.60): ttl=59 times=1.719 ms, 1.6 ms, 1.596 ms
+64 bytes from 1.1.1.1 via probe #1001390 (103.108.58.9): ttl=56 times=62.101 ms, 61.951 ms, 62.214 ms
+64 bytes from 1.1.1.1 via probe #1002932 (223.184.176.53): ttl=57 times=37.345 ms, 37.547 ms, 36.531 ms
+64 bytes from 1.1.1.1 via probe #60347 (106.222.205.62): ttl=58 times=5.321 ms, 8.126 ms, 5.223 ms
+64 bytes from 1.1.1.1 via probe #52159 (103.61.113.228): ttl=57 times=61.626 ms, 60.576 ms, 60.266 ms
+64 bytes from 1.1.1.1 via probe #60887 (103.46.201.125): ttl=58 times=4.431 ms, 4.813 ms, 4.243 ms
+64 bytes from 1.1.1.1 via probe #13785 (103.78.46.1): ttl=53 times=8.433 ms, 8.272 ms, 8.19 ms
+64 bytes from 1.1.1.1 via probe #1005020 (18.60.90.95): ttl=56 times=22.88 ms, 22.534 ms, 22.771 ms
+64 bytes from 1.1.1.1 via probe #25064 (122.160.115.175): ttl=59 times=4.231 ms, 3.858 ms, 4.094 ms
+64 bytes from 1.1.1.1 via probe #1008627 (122.173.25.93): ttl=60 times=15.312 ms, 13.563 ms, 13.906 ms
+64 bytes from 1.1.1.1 via probe #64509 (103.85.89.250): ttl=59 times=16.296 ms, 16.444 ms, 16.515 ms
+
+--- 1.1.1.1 ping statistics ---
+381 packets transmitted, 378 received, 0.787% loss
+rtt min/med/avg/max = 0.000/8.202/15.233/62.214 ms
+PING 1.1.1.1 (resolved on server)
+48 bytes from 1.1.1.1 via probe #1007618 (113.192.4.14): ttl=58 times=16.352 ms, 16.305 ms, 16.375 ms, 16.29 ms, 16.363 ms
+48 bytes from 1.1.1.1 via probe #1001479 (103.108.57.52): ttl=56 times=52.243 ms, 52.365 ms, 52.059 ms, 51.792 ms, 51.973 ms
+48 bytes from 1.1.1.1 via probe #1000458 (202.53.8.243): ttl=58 times=0.728 ms, 0.471 ms, 0.556 ms, 0.499 ms, 0.54 ms
+48 bytes from 1.1.1.1 via probe #1004046 (103.250.184.188): ttl=57 times=80.032 ms, 29.899 ms, 26.146 ms, 26.142 ms, 32.212 ms
+48 bytes from 1.1.1.1 via probe #1004047 (159.89.171.96): ttl=59 times=1.916 ms, 2.099 ms, 1.188 ms, 0.864 ms, 1.57 ms
+48 bytes from 1.1.1.1 via probe #28176 (122.166.191.40): ttl=59 times=5.313 ms, 5.187 ms, 5.492 ms, 5.59 ms, 5.312 ms
+48 bytes from 1.1.1.1 via probe #1000979 (152.67.1.199): ttl=57 times=1.352 ms, 1.228 ms, 1.144 ms, 1.308 ms, 1.201 ms
+48 bytes from 1.1.1.1 via probe #62997 (122.161.52.123): ttl=59 times=2.943 ms, 7.924 ms, 3.781 ms, 7.275 ms, 2.955 ms
+48 bytes from 1.1.1.1 via probe #1008158 (5.188.228.45): ttl=55 times=2.935 ms, 2.383 ms, 2.499 ms, 2.437 ms, 2.43 ms
+48 bytes from 1.1.1.1 via probe #1000486 (59.182.109.7): ttl=58 times=15.837 ms, 16.512 ms, 16.943 ms, 16.512 ms, 16.295 ms
+48 bytes from 1.1.1.1 via probe #1005612 (171.79.122.0): ttl=58 times=7.74 ms, 8.107 ms, 7.134 ms, 6.708 ms, 4.839 ms
+48 bytes from 1.1.1.1 via probe #1001518 (103.108.57.27): ttl=57 times=51.813 ms, 52.321 ms, 51.449 ms, 51.481 ms, 51.637 ms
+48 bytes from 1.1.1.1 via probe #1005614 (49.206.2.26): ttl=56 times=15.045 ms, 15.1 ms, 15.0 ms, 15.034 ms, 15.044 ms
+48 bytes from 1.1.1.1 via probe #1009203 (202.173.127.171): ttl=57 times=3.547 ms, 5.513 ms, 3.168 ms, 4.24 ms, 3.401 ms
+48 bytes from 1.1.1.1 via probe #1004599 (49.43.96.118): ttl=53 times=45.706 ms, 46.253 ms, 46.288 ms, 508.088 ms, 46.408 ms
+48 bytes from 1.1.1.1 via probe #60479 (103.80.22.99): ttl=57 times=3.212 ms, 6.747 ms, 2.517 ms, 2.861 ms, 2.447 ms
+48 bytes from 1.1.1.1 via probe #1001549 (103.207.125.78): ttl=51 times=16.205 ms, 15.723 ms, 16.564 ms, 16.498 ms, 15.582 ms
+48 bytes from 1.1.1.1 via probe #28245 (49.36.121.49): ttl=53 times=27.098 ms, 26.871 ms, 25.736 ms, 24.336 ms, 26.27 ms
+48 bytes from 1.1.1.1 via probe #1004120 (45.64.190.62): ttl=58 times=1.531 ms, 1.52 ms, 1.629 ms, 1.609 ms, 1.512 ms
+48 bytes from 1.1.1.1 via probe #1007708 (122.166.69.18): ttl=55 times=8.787 ms, 8.185 ms, 9.516 ms, 8.907 ms, 9.038 ms
+48 bytes from 1.1.1.1 via probe #60512 (106.51.210.62): ttl=55 times=8.194 ms, 7.576 ms, 7.599 ms, 7.452 ms, 8.105 ms
+48 bytes from 1.1.1.1 via probe #1003619 (217.21.86.65): ttl=55 times=5.668 ms, 12.303 ms, 2.207 ms, 10.84 ms, 10.973 ms
+48 bytes from 1.1.1.1 via probe #1003620 (217.21.86.66): ttl=55 times=13.882 ms, 11.337 ms, 2.731 ms, 3.102 ms, 2.723 ms
+48 bytes from 1.1.1.1 via probe #7269 (116.206.155.229): ttl=60 times=10.991 ms, 10.959 ms, 11.053 ms, 10.998 ms, 10.963 ms
+48 bytes from 1.1.1.1 via probe #1003621 (217.21.86.67): ttl=54 times=11.89 ms, 2.699 ms, 2.678 ms, 3.034 ms, 3.261 ms
+48 bytes from 1.1.1.1 via probe #1003622 (217.21.86.68): ttl=55 times=7.121 ms, 9.677 ms, 6.763 ms, 2.528 ms, 2.753 ms
+48 bytes from 1.1.1.1 via probe #1003623 (217.21.86.69): ttl=55 times=14.029 ms, 10.834 ms, 2.583 ms, 2.492 ms, 2.552 ms
+48 bytes from 1.1.1.1 via probe #1003625 (217.21.86.71): ttl=55 times=7.263 ms, 12.922 ms, 4.34 ms, 2.588 ms, 2.348 ms
+48 bytes from 1.1.1.1 via probe #1003626 (217.21.86.72): ttl=55 times=12.918 ms, 1.884 ms, 1.708 ms, 2.068 ms, 2.866 ms
+48 bytes from 1.1.1.1 via probe #1003627 (217.21.86.73): ttl=55 times=12.553 ms, 6.373 ms, 2.425 ms, 2.586 ms, 3.122 ms
+48 bytes from 1.1.1.1 via probe #1003628 (217.21.86.74): ttl=55 times=11.793 ms, 2.245 ms, 2.058 ms, 2.107 ms, 2.55 ms
+48 bytes from 1.1.1.1 via probe #1003624 (217.21.86.70): ttl=55 times=12.164 ms, 2.418 ms, 1.895 ms, 2.368 ms, 2.043 ms
+48 bytes from 1.1.1.1 via probe #1003630 (217.21.86.76): ttl=55 times=10.697 ms, 2.164 ms, 9.758 ms, 1.78 ms, 2.157 ms
+48 bytes from 1.1.1.1 via probe #1003629 (217.21.86.75): ttl=55 times=11.995 ms, 2.408 ms, 2.467 ms, 2.955 ms, 2.274 ms
+48 bytes from 1.1.1.1 via probe #53360 (106.51.109.72): ttl=55 times=28.765 ms, 7.251 ms, 7.041 ms, 7.205 ms, 7.151 ms
+48 bytes from 1.1.1.1 via probe #1003631 (217.21.86.77): ttl=55 times=12.14 ms, 11.421 ms, 1.483 ms, 1.424 ms, 1.724 ms
+48 bytes from 1.1.1.1 via probe #1003632 (217.21.86.78): ttl=55 times=12.458 ms, 1.872 ms, 1.643 ms, 3.498 ms, 1.882 ms
+48 bytes from 1.1.1.1 via probe #1003633 (217.21.86.79): ttl=55 times=12.123 ms, 6.489 ms, 2.802 ms, 2.982 ms, 3.005 ms
+48 bytes from 1.1.1.1 via probe #1009260 (103.127.186.1): ttl=61 times=16.872 ms, 17.009 ms, 17.009 ms, 16.945 ms, 17.013 ms
+48 bytes from 1.1.1.1 via probe #62069 (49.37.251.62): ttl=53 times=9.659 ms, 8.345 ms, 9.843 ms, 10.118 ms, 9.154 ms
+48 bytes from 1.1.1.1 via probe #1008761 (103.68.108.26): ttl=59 times=1.517 ms, 1.374 ms, 1.93 ms, 1.311 ms, 1.394 ms
+48 bytes from 1.1.1.1 via probe #50302 (103.61.113.228): ttl=58 times=76.432 ms, 76.372 ms, 76.454 ms, 76.441 ms, 76.897 ms
+48 bytes from 1.1.1.1 via probe #1008783 (103.178.205.110): ttl=58 times=24.899 ms, 19.289 ms, 16.704 ms, 16.82 ms, 16.713 ms
+48 bytes from 1.1.1.1 via probe #1004134 (103.169.53.9): ttl=60 times=30.989 ms, 30.95 ms, 30.969 ms, 31.108 ms, 31.024 ms
+48 bytes from 1.1.1.1 via probe #60576 (103.136.39.207): ttl=58 times=23.473 ms, 22.445 ms, 22.244 ms, 22.281 ms, 22.899 ms
+48 bytes from 1.1.1.1 via probe #1004196 (144.24.117.26): ttl=57 times=1.317 ms, 1.267 ms, 1.216 ms, 1.263 ms, 1.239 ms
+48 bytes from 1.1.1.1 via probe #1000620 (103.126.228.10): ttl=61 times=2.663 ms, 2.228 ms, 0.99 ms, 1.057 ms, 1.089 ms
+48 bytes from 1.1.1.1 via probe #60592 (103.61.113.228): ttl=58 times=77.031 ms, 76.765 ms, 76.349 ms, 76.349 ms, 76.443 ms
+48 bytes from 1.1.1.1 via probe #1003696 (103.176.189.67): ttl=61 times=1.789 ms, 1.654 ms, 1.548 ms, 1.531 ms, 1.409 ms
+48 bytes from 1.1.1.1 via probe #1004211 (34.100.184.27): ttl=61 times=3.929 ms, 1.652 ms, 1.692 ms, 1.665 ms, 1.743 ms
+48 bytes from 1.1.1.1 via probe #61108 (106.219.155.188): ttl=59 times=4.724 ms, 3.685 ms, 4.446 ms, 4.111 ms, 4.083 ms
+48 bytes from 1.1.1.1 via probe #17590 (223.185.134.31): ttl=59 times=4.655 ms, 5.779 ms, 3.777 ms, 3.96 ms, 3.652 ms
+48 bytes from 1.1.1.1 via probe #1008317 (82.180.146.82): ttl=60 times=2.217 ms, 1.982 ms, 1.887 ms, 2.362 ms, 2.09 ms
+48 bytes from 1.1.1.1 via probe #1008829 (106.51.209.85): ttl=54 times=7.251 ms, 7.073 ms, 7.131 ms, 7.061 ms, 6.871 ms
+48 bytes from 1.1.1.1 via probe #61639 (103.215.237.177): ttl=60 times=4.229 ms, 3.369 ms, 3.814 ms, 5.308 ms, 2.832 ms
+48 bytes from 1.1.1.1 via probe #1008840 (103.240.104.235): ttl=61 times=1.18 ms, 1.202 ms, 1.191 ms, 1.167 ms, 1.169 ms
+48 bytes from 1.1.1.1 via probe #64718 (49.37.113.35): ttl=53 times=28.855 ms, 26.778 ms, 28.474 ms, 26.805 ms, 28.404 ms
+48 bytes from 1.1.1.1 via probe #7375 (103.136.36.102): ttl=60 times=20.636 ms, 20.616 ms, 20.542 ms, 20.548 ms, 20.517 ms
+48 bytes from 1.1.1.1 via probe #28879 (117.247.92.170): ttl=57 times=13.926 ms, 13.556 ms, 13.762 ms, 13.773 ms, 13.811 ms
+48 bytes from 1.1.1.1 via probe #60627 (49.36.188.12): ttl=53 times=44.834 ms, 43.032 ms, 45.255 ms, 43.562 ms, 42.427 ms
+48 bytes from 1.1.1.1 via probe #60641 (117.194.7.37): ttl=55 times=55.344 ms, 54.604 ms, 54.213 ms, 54.913 ms, 54.632 ms
+48 bytes from 1.1.1.1 via probe #1007337 (106.213.84.132): ttl=59 times=9.073 ms, 9.427 ms, 9.212 ms, 9.035 ms, 9.023 ms
+48 bytes from 1.1.1.1 via probe #1001196 (115.97.137.111): ttl=56 times=38.716 ms, 37.596 ms, 38.655 ms, 37.792 ms, 38.518 ms
+48 bytes from 1.1.1.1 via probe #7405 (160.20.123.10): ttl=56 times=24.067 ms, 27.343 ms, 25.828 ms, 28.85 ms, 24.165 ms
+48 bytes from 1.1.1.1 via probe #1006316 (117.242.201.57): ttl=58 times=19.108 ms, 18.209 ms, 18.55 ms, 18.383 ms, 18.287 ms
+48 bytes from 1.1.1.1 via probe #62703 (49.36.181.188): ttl=53 times=45.479 ms, 40.36 ms, 44.981 ms, 40.338 ms, 41.258 ms
+48 bytes from 1.1.1.1 via probe #1003760 (216.48.177.108): ttl=57 times=39.428 ms, 39.603 ms, 39.5 ms, 39.506 ms, 39.448 ms
+48 bytes from 1.1.1.1 via probe #1003761 (101.53.133.86): ttl=57 times=1.539 ms, 1.82 ms, 1.5 ms, 2.449 ms, 1.621 ms
+48 bytes from 1.1.1.1 via probe #1006322 (202.65.147.199): ttl=54 times=27.022 ms, 27.304 ms, 27.094 ms, 26.867 ms, 27.087 ms
+48 bytes from 1.1.1.1 via probe #1007344 (139.5.254.58): ttl=57 times=4.353 ms, 4.303 ms, 5.838 ms, 5.502 ms, 5.301 ms
+48 bytes from 1.1.1.1 via probe #1008880 (160.20.123.11): ttl=56 times=24.518 ms, 38.55 ms, 33.904 ms, 27.712 ms, 25.578 ms
+48 bytes from 1.1.1.1 via probe #1008381 (157.10.98.129): ttl=59 times=1.009 ms, 0.888 ms, 0.919 ms, 0.973 ms, 0.958 ms
+48 bytes from 1.1.1.1 via probe #1004294 (129.226.29.96): ttl=57 times=1.615 ms, 1.514 ms, 1.53 ms, 1.64 ms, 1.5 ms
+48 bytes from 1.1.1.1 via probe #29959 (59.183.181.10): ttl=55 times=19.337 ms, 18.89 ms, 18.978 ms, 18.994 ms, 19.616 ms
+48 bytes from 1.1.1.1 via probe #1000203 (116.206.155.230): ttl=60 times=10.944 ms, 10.956 ms, 10.929 ms, 10.975 ms, 10.963 ms
+48 bytes from 1.1.1.1 via probe #64787 (49.205.144.253): ttl=56 times=20.116 ms, 19.186 ms, 19.659 ms, 19.814 ms, 21.321 ms
+48 bytes from 1.1.1.1 via probe #1008915 (103.199.173.10): ttl=55 times=5.213 ms, 3.159 ms, 3.946 ms, 3.289 ms, 3.141 ms
+48 bytes from 1.1.1.1 via probe #60694 (103.156.18.126): ttl=63 times=2.274 ms, 2.191 ms, 1.21 ms, 1.198 ms, 1.59 ms
+48 bytes from 1.1.1.1 via probe #1000726 (115.97.137.111): ttl=56 times=38.211 ms, 37.941 ms, 37.799 ms, 37.944 ms, 37.946 ms
+48 bytes from 1.1.1.1 via probe #1004312 (129.226.29.111): ttl=57 times=1.844 ms, 1.91 ms, 1.98 ms, 1.939 ms, 1.891 ms
+48 bytes from 1.1.1.1 via probe #1005849 (223.178.210.42): ttl=60 times=12.602 ms, 11.212 ms, 10.669 ms, 11.62 ms, 11.142 ms
+48 bytes from 1.1.1.1 via probe #1007722 (103.195.201.54): ttl=61 times=9.991 ms, 6.353 ms, 5.153 ms, 3.847 ms, 2.394 ms
+48 bytes from 1.1.1.1 via probe #25375 (203.193.179.28): ttl=57 times=52.54 ms, 52.387 ms, 52.328 ms, 52.284 ms, 52.169 ms
+48 bytes from 1.1.1.1 via probe #53537 (223.233.83.181): ttl=59 times=9.163 ms, 8.748 ms, 8.434 ms, 8.96 ms, 8.489 ms
+48 bytes from 1.1.1.1 via probe #62755 (103.212.147.12): ttl=58 times=4.742 ms, 5.059 ms, 5.271 ms, 4.371 ms, 4.991 ms
+48 bytes from 1.1.1.1 via probe #6953 (156.154.184.254): ttl=59 times=34.867 ms, 34.848 ms, 34.805 ms, 34.893 ms, 34.754 ms
+48 bytes from 1.1.1.1 via probe #6954 (156.154.183.254): ttl=59 times=25.802 ms, 25.772 ms, 25.76 ms, 25.754 ms, 25.754 ms
+48 bytes from 1.1.1.1 via probe #25398 (223.190.85.36): ttl=60 times=4.253 ms, 4.099 ms, 2.196 ms, 3.903 ms, 3.002 ms
+48 bytes from 1.1.1.1 via probe #6968 (159.65.150.114): ttl=59 times=0.902 ms, 0.917 ms, 1.087 ms, 0.911 ms, 0.926 ms
+48 bytes from 1.1.1.1 via probe #54081 (103.174.210.51): ttl=59 times=54.166 ms, 53.425 ms, 53.321 ms, 53.272 ms, 53.294 ms
+48 bytes from 1.1.1.1 via probe #1002818 (101.53.132.190): ttl=56 times=1.384 ms, 1.333 ms, 1.324 ms, 1.48 ms, 1.398 ms
+48 bytes from 1.1.1.1 via probe #62278 (103.199.173.10): ttl=56 times=4.842 ms, 3.826 ms, 3.546 ms, 3.339 ms, 3.88 ms
+48 bytes from 1.1.1.1 via probe #1009992 (49.47.195.13): ttl=52 times=18.928 ms, 18.558 ms, 19.156 ms, 18.862 ms, 19.45 ms
+48 bytes from 1.1.1.1 via probe #33101 (103.170.6.46): ttl=57 times=29.505 ms, 27.848 ms, 28.78 ms, 28.781 ms, 28.93 ms
+48 bytes from 1.1.1.1 via probe #24916 (103.114.66.229): ttl=55 times=51.907 ms, 50.674 ms, 51.063 ms, 51.076 ms, 51.142 ms
+48 bytes from 1.1.1.1 via probe #1003863 (129.154.237.210): ttl=57 times=1.402 ms, 1.275 ms, 1.296 ms, 1.351 ms, 1.337 ms
+48 bytes from 1.1.1.1 via probe #27480 (59.96.59.247): ttl=55 times=20.229 ms, 17.698 ms, 17.44 ms, 17.49 ms, 17.511 ms
+48 bytes from 1.1.1.1 via probe #1004375 (52.140.57.13): ttl=51 times=20.379 ms, 19.838 ms, 19.781 ms, 21.28 ms, 20.021 ms
+48 bytes from 1.1.1.1 via probe #1002842 (103.168.241.129): ttl=56 times=13.055 ms, 12.956 ms, 12.935 ms, 13.014 ms, 13.016 ms
+48 bytes from 1.1.1.1 via probe #54620 (117.215.205.105): ttl=55 times=25.695 ms, 25.931 ms, 25.761 ms, 25.209 ms, 25.115 ms
+48 bytes from 1.1.1.1 via probe #1008476 (103.97.46.3): ttl=59 times=27.481 ms, 57.377 ms, 27.48 ms, 27.776 ms, 27.413 ms
+48 bytes from 1.1.1.1 via probe #62302 (49.36.187.161): ttl=53 times=41.383 ms, 40.278 ms, 41.882 ms, 42.487 ms, 41.481 ms
+48 bytes from 1.1.1.1 via probe #1008995 (14.139.128.11): ttl=53 times=14.657 ms, 14.354 ms, 15.381 ms, 14.486 ms, 14.496 ms
+48 bytes from 1.1.1.1 via probe #53099 (103.160.46.3): ttl=58 times=24.144 ms, 24.336 ms, 24.363 ms, 24.376 ms, 24.385 ms
+48 bytes from 1.1.1.1 via probe #1003883 (143.244.135.25): ttl=59 times=4.095 ms, 1.062 ms, 0.853 ms, 0.81 ms, 3.393 ms
+48 bytes from 1.1.1.1 via probe #53613 (117.208.5.145): ttl=57 times=19.015 ms, 17.795 ms, 18.456 ms, 18.216 ms, 17.844 ms
+48 bytes from 1.1.1.1 via probe #62322 (49.36.223.217): ttl=53 times=39.113 ms, 38.476 ms, 40.68 ms, 38.111 ms, 39.751 ms
+48 bytes from 1.1.1.1 via probe #1003379 (13.233.37.136): ttl=54 times=1.333 ms, 1.411 ms, 1.261 ms, 1.227 ms, 1.251 ms
+48 bytes from 1.1.1.1 via probe #60276 (49.36.203.33): ttl=53 times=56.672 ms, 54.993 ms, 55.822 ms, 56.837 ms, 55.767 ms
+48 bytes from 1.1.1.1 via probe #1007478 (150.242.72.40): ttl=59 times=3.972 ms, 5.124 ms, 4.875 ms, 5.573 ms, 4.982 ms
+48 bytes from 1.1.1.1 via probe #60289 (103.159.35.147): ttl=59 times=3.576 ms, 3.81 ms, 4.469 ms, 5.521 ms, 5.832 ms
+48 bytes from 1.1.1.1 via probe #1004419 (20.198.116.111): ttl=53 times=3.444 ms, 3.484 ms, 3.552 ms, 3.565 ms, 10.1 ms
+48 bytes from 1.1.1.1 via probe #62855 (146.196.32.174): ttl=59 times=3.109 ms, 2.258 ms, 2.491 ms, 3.045 ms, 3.265 ms
+48 bytes from 1.1.1.1 via probe #1008521 (202.164.150.234): ttl=57 times=17.995 ms, 16.778 ms, 16.861 ms, 17.631 ms, 17.499 ms
+48 bytes from 1.1.1.1 via probe #55694 (117.247.236.144): ttl=55 times=14.205 ms, 13.009 ms, 13.993 ms, 13.704 ms
+48 bytes from 1.1.1.1 via probe #60321 (103.179.9.188): ttl=58 times=3.217 ms, 3.384 ms, 2.914 ms, 3.318 ms, 3.4 ms
+48 bytes from 1.1.1.1 via probe #7077 (216.48.178.84): ttl=57 times=36.432 ms, 36.324 ms, 36.169 ms, 36.425 ms, 36.232 ms
+48 bytes from 1.1.1.1 via probe #1003949 (150.230.129.60): ttl=59 times=1.322 ms, 1.625 ms, 2.258 ms, 1.538 ms, 1.521 ms
+48 bytes from 1.1.1.1 via probe #1001390 (103.108.58.9): ttl=56 times=47.643 ms, 47.211 ms, 47.523 ms, 47.459 ms, 47.518 ms
+48 bytes from 1.1.1.1 via probe #1002932 (110.226.198.160): ttl=57 times=19.959 ms, 20.747 ms, 26.987 ms, 35.387 ms, 35.428 ms
+48 bytes from 1.1.1.1 via probe #60347 (106.222.207.253): ttl=59 times=6.586 ms, 5.659 ms, 4.081 ms, 3.415 ms, 3.072 ms
+48 bytes from 1.1.1.1 via probe #52159 (103.61.113.228): ttl=58 times=76.214 ms, 76.292 ms, 75.925 ms, 76.174 ms, 77.121 ms
+48 bytes from 1.1.1.1 via probe #60887 (103.46.201.73): ttl=58 times=6.993 ms, 4.5 ms, 3.609 ms, 4.212 ms, 4.942 ms
+48 bytes from 1.1.1.1 via probe #13785 (103.78.46.1): ttl=59 times=6.941 ms, 6.504 ms, 6.587 ms, 12.43 ms, 6.561 ms
+48 bytes from 1.1.1.1 via probe #1005020 (18.60.90.95): ttl=56 times=22.508 ms, 22.51 ms, 22.604 ms, 22.539 ms, 22.643 ms
+48 bytes from 1.1.1.1 via probe #25064 (122.160.115.175): ttl=59 times=3.595 ms, 3.8 ms, 3.501 ms, 3.429 ms, 3.56 ms
+48 bytes from 1.1.1.1 via probe #1008627 (122.173.25.173): ttl=60 times=18.979 ms, 19.229 ms, 18.439 ms, 18.82 ms, 16.786 ms
+48 bytes from 1.1.1.1 via probe #64509 (103.85.89.250): ttl=59 times=12.396 ms, 12.051 ms, 12.317 ms, 12.231 ms, 12.603 ms
+
+--- 1.1.1.1 ping statistics ---
+639 packets transmitted, 639 received, 0.0% loss
+rtt min/med/avg/max = 0.471/10.669/17.454/508.088 ms
+PING 1.1.1.1 (resolved on server)
+64 bytes from 1.1.1.1 via probe #1007618 (113.192.4.14): ttl=58 times=12.194 ms, 12.223 ms, 12.171 ms
+64 bytes from 1.1.1.1 via probe #1001479 (103.108.57.52): ttl=56 times=52.128 ms, 51.823 ms, 52.366 ms
+64 bytes from 1.1.1.1 via probe #1000458 (202.53.8.243): ttl=58 times=0.583 ms, 0.584 ms, 0.535 ms
+64 bytes from 1.1.1.1 via probe #1004046 (103.250.184.188): ttl=57 times=29.392 ms, 29.093 ms, 29.128 ms
+64 bytes from 1.1.1.1 via probe #1004047 (159.89.171.96): ttl=59 times=2.06 ms, 0.94 ms, 0.895 ms
+64 bytes from 1.1.1.1 via probe #28176 (122.166.191.40): ttl=59 times=5.378 ms, 5.358 ms, 5.429 ms
+64 bytes from 1.1.1.1 via probe #1000979 (152.67.1.199): ttl=57 times=1.388 ms, 1.291 ms, 1.263 ms
+64 bytes from 1.1.1.1 via probe #62997 (122.161.52.123): ttl=59 times=3.636 ms, 5.859 ms, 7.595 ms
+64 bytes from 1.1.1.1 via probe #1008158 (5.188.228.45): ttl=55 times=2.362 ms, 2.441 ms, 2.362 ms
+64 bytes from 1.1.1.1 via probe #1000486 (59.182.109.7): ttl=58 times=18.406 ms, 18.358 ms, 17.446 ms
+64 bytes from 1.1.1.1 via probe #1005612 (171.79.122.0): ttl=58 times=5.501 ms, 7.033 ms, 6.248 ms
+64 bytes from 1.1.1.1 via probe #1001518 (103.108.57.27): ttl=57 times=50.108 ms, 50.862 ms, 51.373 ms
+64 bytes from 1.1.1.1 via probe #1005614 (49.206.2.26): ttl=56 times=15.113 ms, 15.004 ms, 14.968 ms
+64 bytes from 1.1.1.1 via probe #1009203 (202.173.127.171): ttl=57 times=4.119 ms, 3.446 ms, 3.335 ms
+64 bytes from 1.1.1.1 via probe #1004599 (49.43.96.118): ttl=52 times=33.633 ms, 33.427 ms, 34.004 ms
+64 bytes from 1.1.1.1 via probe #60479 (103.80.22.99): ttl=57 times=2.862 ms, 1.951 ms, 2.624 ms
+64 bytes from 1.1.1.1 via probe #1001549 (103.207.125.78): ttl=51 times=15.748 ms, 16.034 ms, 16.026 ms
+64 bytes from 1.1.1.1 via probe #28245 (49.36.121.49): ttl=52 times=8.571 ms, 7.483 ms, 6.127 ms
+64 bytes from 1.1.1.1 via probe #1004120 (45.64.190.62): ttl=58 times=1.515 ms, 1.508 ms, 1.634 ms
+64 bytes from 1.1.1.1 via probe #1007708 (122.166.69.18): ttl=53 times=16.122 ms, 15.794 ms, 15.914 ms
+64 bytes from 1.1.1.1 via probe #60512 (106.51.210.62): ttl=55 times=8.471 ms, 7.909 ms, 7.947 ms
+64 bytes from 1.1.1.1 via probe #1003619 (217.21.86.65): ttl=55 times=6.774 ms, 2.758 ms, 2.03 ms
+64 bytes from 1.1.1.1 via probe #1003620 (217.21.86.66): ttl=55 times=6.319 ms, 3.946 ms, 3.293 ms
+64 bytes from 1.1.1.1 via probe #7269 (116.206.155.229): ttl=60 times=10.933 ms, 10.981 ms, 10.962 ms
+64 bytes from 1.1.1.1 via probe #1003621 (217.21.86.67): ttl=54 times=9.063 ms, 2.693 ms, 2.951 ms
+64 bytes from 1.1.1.1 via probe #1003622 (217.21.86.68): ttl=55 times=6.453 ms, 2.878 ms, 3.437 ms
+64 bytes from 1.1.1.1 via probe #1003623 (217.21.86.69): ttl=55 times=9.136 ms, 3.071 ms, 2.264 ms
+64 bytes from 1.1.1.1 via probe #1003625 (217.21.86.71): ttl=55 times=6.995 ms, 3.364 ms, 3.135 ms
+64 bytes from 1.1.1.1 via probe #1003626 (217.21.86.72): ttl=55 times=5.598 ms, 1.832 ms, 1.479 ms
+64 bytes from 1.1.1.1 via probe #1003627 (217.21.86.73): ttl=55 times=6.885 ms, 2.268 ms, 3.174 ms
+64 bytes from 1.1.1.1 via probe #1003628 (217.21.86.74): ttl=55 times=6.785 ms, 2.47 ms, 2.152 ms
+64 bytes from 1.1.1.1 via probe #1003624 (217.21.86.70): ttl=55 times=6.718 ms, 1.813 ms, 2.355 ms
+64 bytes from 1.1.1.1 via probe #1003630 (217.21.86.76): ttl=55 times=6.265 ms, 2.612 ms, 1.946 ms
+64 bytes from 1.1.1.1 via probe #1003629 (217.21.86.75): ttl=55 times=5.879 ms, 3.009 ms, 3.55 ms
+64 bytes from 1.1.1.1 via probe #53360 (106.51.109.72): ttl=55 times=7.569 ms, 7.106 ms, 7.069 ms
+64 bytes from 1.1.1.1 via probe #1003631 (217.21.86.77): ttl=55 times=7.551 ms, 1.874 ms, 1.644 ms
+64 bytes from 1.1.1.1 via probe #1003632 (217.21.86.78): ttl=55 times=6.257 ms, 10.972 ms, 10.983 ms
+64 bytes from 1.1.1.1 via probe #1003633 (217.21.86.79): ttl=55 times=7.722 ms, 2.744 ms, 2.563 ms
+64 bytes from 1.1.1.1 via probe #1009260 (103.127.186.1): ttl=61 times=16.983 ms, 16.987 ms, 17.033 ms
+64 bytes from 1.1.1.1 via probe #62069 (49.37.251.62): ttl=53 times=9.743 ms, 9.446 ms, 10.258 ms
+64 bytes from 1.1.1.1 via probe #1008761 (103.68.108.26): ttl=59 times=1.402 ms, 1.424 ms, 1.335 ms
+64 bytes from 1.1.1.1 via probe #50302 (103.61.113.228): ttl=57 times=53.792 ms, 53.387 ms, 53.909 ms
+64 bytes from 1.1.1.1 via probe #1008783 (103.178.205.110): ttl=58 times=16.837 ms, 16.361 ms, 20.967 ms
+64 bytes from 1.1.1.1 via probe #1004134 (103.169.53.9): ttl=60 times=31.022 ms, 30.974 ms, 31.095 ms
+64 bytes from 1.1.1.1 via probe #60576 (103.136.39.207): ttl=58 times=22.658 ms, 22.994 ms, 22.634 ms
+64 bytes from 1.1.1.1 via probe #1004196 (144.24.117.26): ttl=57 times=1.359 ms, 1.293 ms, 1.264 ms
+64 bytes from 1.1.1.1 via probe #1000620 (103.126.228.10): ttl=61 times=1.087 ms, 1.081 ms, 1.083 ms
+64 bytes from 1.1.1.1 via probe #60592 (103.61.113.228): ttl=57 times=53.98 ms, 54.122 ms, 53.917 ms
+64 bytes from 1.1.1.1 via probe #1003696 (103.176.189.67): ttl=61 times=1.513 ms, 1.285 ms, 1.199 ms
+64 bytes from 1.1.1.1 via probe #1004211 (34.100.184.27): ttl=61 times=3.988 ms, 1.719 ms, 1.72 ms
+64 bytes from 1.1.1.1 via probe #61108 (106.219.155.188): ttl=59 times=4.768 ms, 4.611 ms, 4.533 ms
+64 bytes from 1.1.1.1 via probe #17590 (223.185.134.31): ttl=59 times=5.796 ms, 6.501 ms, 5.774 ms
+64 bytes from 1.1.1.1 via probe #1008317 (82.180.146.82): ttl=60 times=1.967 ms, 1.803 ms, 1.972 ms
+64 bytes from 1.1.1.1 via probe #1008829 (106.51.210.241): ttl=54 times=6.99 ms, 7.384 ms, 7.148 ms
+64 bytes from 1.1.1.1 via probe #61639 (103.215.237.177): ttl=60 times=8.792 ms, 2.946 ms, 4.535 ms
+64 bytes from 1.1.1.1 via probe #1008840 (103.240.104.235): ttl=61 times=1.182 ms, 1.221 ms, 1.368 ms
+64 bytes from 1.1.1.1 via probe #64718 (49.37.113.233): ttl=52 times=44.097 ms, 44.406 ms, 43.733 ms
+64 bytes from 1.1.1.1 via probe #7375 (103.136.36.102): ttl=60 times=20.621 ms, 20.587 ms, 20.619 ms
+64 bytes from 1.1.1.1 via probe #28879 (117.247.92.170): ttl=57 times=13.872 ms, 13.643 ms, 13.611 ms
+64 bytes from 1.1.1.1 via probe #60627 (49.36.188.12): ttl=52 times=32.966 ms, 27.118 ms, 29.833 ms
+64 bytes from 1.1.1.1 via probe #60641 (117.194.7.37): ttl=55 times=55.481 ms, 55.221 ms, 55.201 ms
+64 bytes from 1.1.1.1 via probe #1007337 (106.213.84.132): ttl=59 times=9.233 ms, 9.406 ms, 9.142 ms
+64 bytes from 1.1.1.1 via probe #1001196 (115.97.137.111): ttl=55 times=25.598 ms, 25.277 ms, 24.966 ms
+64 bytes from 1.1.1.1 via probe #7405 (160.20.123.10): ttl=56 times=22.533 ms, 22.525 ms, 22.436 ms
+64 bytes from 1.1.1.1 via probe #1006316 (59.92.172.68): ttl=55 times=24.73 ms, 24.978 ms, 25.327 ms
+64 bytes from 1.1.1.1 via probe #62703 (49.36.181.188): ttl=52 times=27.71 ms, 31.327 ms, 30.304 ms
+64 bytes from 1.1.1.1 via probe #1003760 (216.48.177.108): ttl=57 times=37.942 ms, 37.984 ms, 37.961 ms
+64 bytes from 1.1.1.1 via probe #1000689 (148.113.20.147): ttl=None times=None ms, None ms, None ms
+64 bytes from 1.1.1.1 via probe #1003761 (101.53.133.86): ttl=57 times=1.867 ms, 1.526 ms, 1.421 ms
+64 bytes from 1.1.1.1 via probe #1006322 (202.65.147.199): ttl=54 times=27.925 ms, 27.957 ms, 27.747 ms
+64 bytes from 1.1.1.1 via probe #1007344 (139.5.254.58): ttl=57 times=6.011 ms, 6.643 ms, 4.489 ms
+64 bytes from 1.1.1.1 via probe #1008880 (160.20.123.11): ttl=56 times=22.54 ms, 22.483 ms, 22.547 ms
+64 bytes from 1.1.1.1 via probe #1008381 (157.10.98.129): ttl=59 times=0.955 ms, 0.907 ms, 0.979 ms
+64 bytes from 1.1.1.1 via probe #1004294 (129.226.29.96): ttl=57 times=1.598 ms, 1.587 ms, 1.545 ms
+64 bytes from 1.1.1.1 via probe #29959 (59.183.181.10): ttl=55 times=19.241 ms, 18.526 ms, 19.308 ms
+64 bytes from 1.1.1.1 via probe #1000203 (116.206.155.230): ttl=60 times=11.007 ms, 10.984 ms, 10.92 ms
+64 bytes from 1.1.1.1 via probe #64787 (49.205.144.253): ttl=56 times=19.789 ms, 19.42 ms, 18.922 ms
+64 bytes from 1.1.1.1 via probe #1008915 (103.199.173.10): ttl=55 times=3.106 ms, 2.911 ms, 3.249 ms
+64 bytes from 1.1.1.1 via probe #60694 (103.156.18.126): ttl=63 times=1.78 ms, 1.665 ms, 2.059 ms
+64 bytes from 1.1.1.1 via probe #1000726 (115.97.137.111): ttl=55 times=25.434 ms, 25.057 ms, 25.246 ms
+64 bytes from 1.1.1.1 via probe #1004312 (129.226.29.111): ttl=57 times=1.897 ms, 1.912 ms, 1.849 ms
+64 bytes from 1.1.1.1 via probe #1005849 (223.178.210.42): ttl=60 times=11.922 ms, 12.926 ms, 12.048 ms
+64 bytes from 1.1.1.1 via probe #1007722 (103.195.201.54): ttl=61 times=4.884 ms, 4.635 ms, 4.577 ms
+64 bytes from 1.1.1.1 via probe #25375 (203.193.179.28): ttl=57 times=49.83 ms, 49.842 ms, 49.67 ms
+64 bytes from 1.1.1.1 via probe #53537 (223.233.84.10): ttl=59 times=8.994 ms, 8.623 ms, 8.598 ms
+64 bytes from 1.1.1.1 via probe #62755 (103.212.147.12): ttl=58 times=4.946 ms, 3.849 ms, 5.737 ms
+64 bytes from 1.1.1.1 via probe #6953 (156.154.184.254): ttl=59 times=34.399 ms, 34.457 ms, 34.473 ms
+64 bytes from 1.1.1.1 via probe #6954 (156.154.183.254): ttl=59 times=24.703 ms, 24.574 ms, 24.768 ms
+64 bytes from 1.1.1.1 via probe #25398 (223.190.85.36): ttl=60 times=4.802 ms, 1.88 ms, 2.959 ms
+64 bytes from 1.1.1.1 via probe #6968 (159.65.150.114): ttl=59 times=0.961 ms, 0.905 ms, 0.857 ms
+64 bytes from 1.1.1.1 via probe #54081 (103.174.210.51): ttl=59 times=53.658 ms, 53.074 ms, 53.21 ms
+64 bytes from 1.1.1.1 via probe #1002818 (101.53.132.190): ttl=56 times=1.445 ms, 1.455 ms, 1.443 ms
+64 bytes from 1.1.1.1 via probe #62278 (103.199.173.10): ttl=56 times=3.158 ms, 3.611 ms, 3.584 ms
+64 bytes from 1.1.1.1 via probe #1009992 (49.47.195.13): ttl=52 times=19.294 ms, 19.096 ms, 18.712 ms
+64 bytes from 1.1.1.1 via probe #33101 (103.170.6.46): ttl=57 times=27.288 ms, 27.49 ms, 27.726 ms
+64 bytes from 1.1.1.1 via probe #24916 (103.114.66.229): ttl=55 times=50.223 ms, 50.651 ms, 50.783 ms
+64 bytes from 1.1.1.1 via probe #1003863 (129.154.237.210): ttl=57 times=1.314 ms, 1.335 ms, 1.374 ms
+64 bytes from 1.1.1.1 via probe #27480 (59.96.59.247): ttl=None times=None ms, 19.33 ms, 18.652 ms
+64 bytes from 1.1.1.1 via probe #1004375 (52.140.57.13): ttl=51 times=21.404 ms, 16.96 ms, 16.69 ms
+64 bytes from 1.1.1.1 via probe #1002842 (103.168.241.129): ttl=56 times=12.54 ms, 12.436 ms, 12.414 ms
+64 bytes from 1.1.1.1 via probe #54620 (117.242.97.154): ttl=54 times=18.505 ms, 18.064 ms, 18.417 ms
+64 bytes from 1.1.1.1 via probe #1008476 (103.97.46.3): ttl=59 times=29.834 ms, 29.711 ms, 29.653 ms
+64 bytes from 1.1.1.1 via probe #62302 (49.36.187.161): ttl=52 times=27.477 ms, 25.688 ms, 26.357 ms
+64 bytes from 1.1.1.1 via probe #1008995 (14.139.128.11): ttl=49 times=19.809 ms, 19.839 ms, 19.719 ms
+64 bytes from 1.1.1.1 via probe #53099 (103.160.46.3): ttl=58 times=24.301 ms, 24.116 ms, 24.172 ms
+64 bytes from 1.1.1.1 via probe #1003883 (143.244.135.25): ttl=59 times=2.01 ms, 0.855 ms, 0.877 ms
+64 bytes from 1.1.1.1 via probe #53613 (117.208.5.145): ttl=57 times=18.539 ms, 18.222 ms, 18.798 ms
+64 bytes from 1.1.1.1 via probe #62322 (49.36.223.217): ttl=52 times=27.585 ms, 27.21 ms, 27.155 ms
+64 bytes from 1.1.1.1 via probe #1003379 (13.233.37.136): ttl=57 times=1.451 ms, 1.509 ms, 1.458 ms
+64 bytes from 1.1.1.1 via probe #60276 (49.36.203.33): ttl=52 times=42.915 ms, 43.623 ms, 44.089 ms
+64 bytes from 1.1.1.1 via probe #1007478 (150.242.72.40): ttl=59 times=4.434 ms, 4.446 ms, 3.599 ms
+64 bytes from 1.1.1.1 via probe #1002359 (152.70.64.30): ttl=59 times=1.947 ms, 3.111 ms, 2.754 ms
+64 bytes from 1.1.1.1 via probe #60289 (103.159.35.147): ttl=59 times=3.692 ms, 3.197 ms, 3.743 ms
+64 bytes from 1.1.1.1 via probe #1004419 (20.198.116.111): ttl=53 times=9.161 ms, 9.933 ms, 3.621 ms
+64 bytes from 1.1.1.1 via probe #62855 (146.196.32.174): ttl=59 times=3.042 ms, 3.299 ms, 3.669 ms
+64 bytes from 1.1.1.1 via probe #1008521 (202.164.150.234): ttl=57 times=17.707 ms, 17.716 ms, 16.806 ms
+64 bytes from 1.1.1.1 via probe #55694 (117.247.236.144): ttl=55 times=13.559 ms, 12.966 ms, 13.295 ms
+64 bytes from 1.1.1.1 via probe #60321 (103.179.9.188): ttl=58 times=3.889 ms, 3.036 ms, 3.482 ms
+64 bytes from 1.1.1.1 via probe #7077 (216.48.178.84): ttl=57 times=36.347 ms, 36.219 ms, 36.321 ms
+64 bytes from 1.1.1.1 via probe #1003949 (150.230.129.60): ttl=59 times=1.619 ms, 1.696 ms, 1.496 ms
+64 bytes from 1.1.1.1 via probe #1001390 (103.108.58.9): ttl=56 times=53.059 ms, 47.459 ms, 47.615 ms
+64 bytes from 1.1.1.1 via probe #1002932 (110.226.198.160): ttl=57 times=28.798 ms, 34.916 ms, 42.093 ms
+64 bytes from 1.1.1.1 via probe #60347 (106.222.207.253): ttl=59 times=5.649 ms, 5.101 ms, 5.345 ms
+64 bytes from 1.1.1.1 via probe #52159 (103.61.113.228): ttl=57 times=53.722 ms, 53.693 ms, 52.934 ms
+64 bytes from 1.1.1.1 via probe #60887 (103.46.201.73): ttl=58 times=4.104 ms, 4.644 ms, 4.428 ms
+64 bytes from 1.1.1.1 via probe #13785 (103.78.46.1): ttl=59 times=7.642 ms, 7.368 ms, 7.265 ms
+64 bytes from 1.1.1.1 via probe #1005020 (18.60.90.95): ttl=56 times=22.539 ms, 22.536 ms, 22.574 ms
+64 bytes from 1.1.1.1 via probe #25064 (122.160.115.175): ttl=59 times=4.105 ms, 4.151 ms, 3.674 ms
+64 bytes from 1.1.1.1 via probe #1008627 (122.173.25.173): ttl=60 times=17.965 ms, 16.149 ms, 16.571 ms
+64 bytes from 1.1.1.1 via probe #64509 (103.85.89.250): ttl=59 times=16.838 ms, 16.535 ms, 16.577 ms
+
+--- 1.1.1.1 ping statistics ---
+390 packets transmitted, 386 received, 1.03% loss
+rtt min/med/avg/max = 0.000/8.585/14.864/55.481 ms
+PING 1.1.1.1 (resolved on server)
+48 bytes from 1.1.1.1 via probe #1007618 (113.192.4.14): ttl=58 times=12.108 ms, 12.105 ms, 11.968 ms, 12.027 ms, 12.028 ms
+48 bytes from 1.1.1.1 via probe #1001479 (103.108.57.52): ttl=56 times=51.761 ms, 51.784 ms, 51.745 ms, 51.596 ms, 51.652 ms
+48 bytes from 1.1.1.1 via probe #1000458 (202.53.8.243): ttl=58 times=1.989 ms, 0.584 ms, 0.5 ms, 0.783 ms, 0.431 ms
+48 bytes from 1.1.1.1 via probe #1004046 (103.250.184.188): ttl=57 times=29.729 ms, 30.41 ms, 26.242 ms, 29.211 ms, 26.097 ms
+48 bytes from 1.1.1.1 via probe #1004047 (159.89.171.96): ttl=59 times=3.078 ms, 0.893 ms, 0.969 ms, 1.026 ms, 1.086 ms
+48 bytes from 1.1.1.1 via probe #28176 (122.166.191.40): ttl=59 times=5.539 ms, 5.644 ms, 5.147 ms, 5.486 ms, 5.559 ms
+48 bytes from 1.1.1.1 via probe #1000979 (152.67.1.199): ttl=59 times=1.202 ms, 1.146 ms, 1.34 ms, 1.144 ms, 1.133 ms
+48 bytes from 1.1.1.1 via probe #62997 (122.161.52.123): ttl=59 times=3.827 ms, 4.634 ms, 4.447 ms, 5.762 ms, 6.942 ms
+48 bytes from 1.1.1.1 via probe #1008158 (5.188.228.45): ttl=55 times=2.286 ms, 2.288 ms, 2.281 ms, 2.472 ms, 2.39 ms
+48 bytes from 1.1.1.1 via probe #1000486 (59.182.109.7): ttl=58 times=18.371 ms, 17.52 ms, 17.753 ms, 17.85 ms, 17.719 ms
+48 bytes from 1.1.1.1 via probe #1005612 (171.79.122.0): ttl=58 times=5.159 ms, 7.807 ms, 7.917 ms, 6.361 ms, 5.118 ms
+48 bytes from 1.1.1.1 via probe #1001518 (103.108.57.27): ttl=57 times=47.044 ms, 46.681 ms, 47.134 ms, 46.514 ms, 46.678 ms
+48 bytes from 1.1.1.1 via probe #1005614 (49.206.2.26): ttl=56 times=15.133 ms, 15.01 ms, 15.078 ms, 14.989 ms, 15.034 ms
+48 bytes from 1.1.1.1 via probe #1009203 (202.173.127.171): ttl=57 times=6.105 ms, 3.59 ms, 3.854 ms, 2.94 ms, 3.01 ms
+48 bytes from 1.1.1.1 via probe #1004599 (49.43.96.118): ttl=53 times=47.917 ms, 47.385 ms, 46.509 ms, 459.307 ms, 46.802 ms
+48 bytes from 1.1.1.1 via probe #60479 (103.80.22.99): ttl=57 times=5.271 ms, 2.632 ms, 1.797 ms, 2.466 ms, 3.102 ms
+48 bytes from 1.1.1.1 via probe #28245 (49.36.121.49): ttl=53 times=27.89 ms, 26.898 ms, 28.276 ms, 28.117 ms, 29.585 ms
+48 bytes from 1.1.1.1 via probe #1004120 (45.64.190.62): ttl=58 times=1.588 ms, 1.539 ms, 1.498 ms, 1.562 ms, 1.555 ms
+48 bytes from 1.1.1.1 via probe #1007708 (122.166.69.18): ttl=55 times=9.622 ms, 9.004 ms, 9.028 ms, 9.372 ms, 9.925 ms
+48 bytes from 1.1.1.1 via probe #60512 (106.51.210.62): ttl=55 times=7.58 ms, 7.281 ms, 7.827 ms, 7.45 ms, 7.686 ms
+48 bytes from 1.1.1.1 via probe #1003619 (217.21.86.65): ttl=55 times=12.036 ms, 8.12 ms, 1.846 ms, 2.759 ms, 10.955 ms
+48 bytes from 1.1.1.1 via probe #1003620 (217.21.86.66): ttl=55 times=11.206 ms, 2.358 ms, 2.342 ms, 2.648 ms, 2.65 ms
+48 bytes from 1.1.1.1 via probe #7269 (116.206.155.229): ttl=60 times=10.959 ms, 10.94 ms, 10.962 ms, 10.937 ms, 10.957 ms
+48 bytes from 1.1.1.1 via probe #1003621 (217.21.86.67): ttl=54 times=11.871 ms, 2.758 ms, 2.758 ms, 2.901 ms, 2.739 ms
+48 bytes from 1.1.1.1 via probe #1003622 (217.21.86.68): ttl=55 times=12.457 ms, 2.408 ms, 3.145 ms, 2.697 ms, 3.273 ms
+48 bytes from 1.1.1.1 via probe #1003623 (217.21.86.69): ttl=55 times=9.72 ms, 11.698 ms, 2.601 ms, 2.695 ms, 3.124 ms
+48 bytes from 1.1.1.1 via probe #1003625 (217.21.86.71): ttl=55 times=12.243 ms, 5.255 ms, 3.005 ms, 2.301 ms, 3.486 ms
+48 bytes from 1.1.1.1 via probe #1003626 (217.21.86.72): ttl=55 times=11.517 ms, 11.549 ms, 2.527 ms, 2.138 ms, 1.722 ms
+48 bytes from 1.1.1.1 via probe #1003627 (217.21.86.73): ttl=55 times=12.121 ms, 2.057 ms, 2.854 ms, 2.013 ms, 2.131 ms
+48 bytes from 1.1.1.1 via probe #1003628 (217.21.86.74): ttl=55 times=12.815 ms, 6.132 ms, 10.805 ms, 10.973 ms, 2.001 ms
+48 bytes from 1.1.1.1 via probe #1003624 (217.21.86.70): ttl=55 times=9.803 ms, 2.027 ms, 2.14 ms, 1.644 ms, 2.192 ms
+48 bytes from 1.1.1.1 via probe #1003630 (217.21.86.76): ttl=55 times=12.291 ms, 2.082 ms, 2.246 ms, 2.388 ms, 2.077 ms
+48 bytes from 1.1.1.1 via probe #1003629 (217.21.86.75): ttl=55 times=12.167 ms, 2.44 ms, 2.615 ms, 14.076 ms, 2.262 ms
+48 bytes from 1.1.1.1 via probe #53360 (106.51.109.72): ttl=55 times=7.321 ms, 6.987 ms, 7.025 ms, 7.121 ms, 7.493 ms
+48 bytes from 1.1.1.1 via probe #1003631 (217.21.86.77): ttl=55 times=11.272 ms, 2.833 ms, 1.429 ms, 1.567 ms, 1.235 ms
+48 bytes from 1.1.1.1 via probe #1003632 (217.21.86.78): ttl=55 times=12.136 ms, 12.439 ms, 4.163 ms, 1.556 ms, 2.188 ms
+48 bytes from 1.1.1.1 via probe #1003633 (217.21.86.79): ttl=55 times=12.191 ms, 2.709 ms, 2.643 ms, 2.572 ms, 2.583 ms
+48 bytes from 1.1.1.1 via probe #1009260 (103.127.186.1): ttl=61 times=17.025 ms, 17.025 ms, 16.825 ms, 16.953 ms, 16.903 ms
+48 bytes from 1.1.1.1 via probe #62069 (49.37.251.62): ttl=53 times=9.709 ms, 8.896 ms, 9.054 ms, 9.22 ms, 10.245 ms
+48 bytes from 1.1.1.1 via probe #1008761 (103.68.108.26): ttl=59 times=1.594 ms, 1.326 ms, 1.333 ms, 1.387 ms, 1.372 ms
+48 bytes from 1.1.1.1 via probe #50302 (103.61.113.228): ttl=58 times=68.412 ms, 68.27 ms, 69.036 ms, 68.33 ms, 68.44 ms
+48 bytes from 1.1.1.1 via probe #1008783 (103.178.205.110): ttl=58 times=13.17 ms, 15.972 ms, 15.911 ms, 20.601 ms, 28.494 ms
+48 bytes from 1.1.1.1 via probe #1004134 (103.169.53.9): ttl=60 times=31.044 ms, 31.028 ms, 30.98 ms, 31.148 ms, 31.056 ms
+48 bytes from 1.1.1.1 via probe #60576 (103.136.39.207): ttl=58 times=25.363 ms, 22.379 ms, 22.443 ms, 22.442 ms, 22.176 ms
+48 bytes from 1.1.1.1 via probe #1004196 (144.24.117.26): ttl=59 times=1.286 ms, 1.276 ms, 1.237 ms, 1.237 ms, 1.222 ms
+48 bytes from 1.1.1.1 via probe #1000620 (103.126.228.10): ttl=61 times=1.576 ms, 1.36 ms, 0.973 ms, 1.059 ms, 1.086 ms
+48 bytes from 1.1.1.1 via probe #60592 (103.61.113.228): ttl=58 times=69.294 ms, 68.973 ms, 68.585 ms, 68.718 ms, 68.538 ms
+48 bytes from 1.1.1.1 via probe #1003696 (103.176.189.67): ttl=61 times=2.15 ms, 1.231 ms, 1.372 ms, 1.324 ms, 1.414 ms
+48 bytes from 1.1.1.1 via probe #1004211 (34.100.184.27): ttl=61 times=2.162 ms, 0.865 ms, 0.93 ms, 0.934 ms, 1.042 ms
+48 bytes from 1.1.1.1 via probe #61108 (106.219.155.188): ttl=59 times=3.646 ms, 4.147 ms, 3.719 ms, 4.076 ms, 4.036 ms
+48 bytes from 1.1.1.1 via probe #17590 (223.185.134.31): ttl=59 times=6.13 ms, 4.558 ms, 3.706 ms, 6.639 ms, 6.205 ms
+48 bytes from 1.1.1.1 via probe #1008317 (82.180.146.82): ttl=60 times=1.747 ms, 1.904 ms, 1.842 ms, 1.747 ms, 1.821 ms
+48 bytes from 1.1.1.1 via probe #1008829 (106.51.210.241): ttl=54 times=6.922 ms, 6.727 ms, 7.212 ms, 7.186 ms, 6.828 ms
+48 bytes from 1.1.1.1 via probe #61639 (103.215.237.177): ttl=60 times=7.877 ms, 3.433 ms, 8.645 ms, 5.678 ms
+48 bytes from 1.1.1.1 via probe #1008840 (103.240.104.235): ttl=61 times=1.214 ms, 1.144 ms, 1.153 ms, 1.12 ms, 1.124 ms
+48 bytes from 1.1.1.1 via probe #64718 (49.37.113.225): ttl=53 times=26.635 ms, 28.649 ms, 29.207 ms, 28.632 ms, 28.835 ms
+48 bytes from 1.1.1.1 via probe #7375 (103.136.36.102): ttl=60 times=20.665 ms, 20.578 ms, 20.63 ms, 20.58 ms, 20.598 ms
+48 bytes from 1.1.1.1 via probe #28879 (117.247.92.170): ttl=57 times=10.919 ms, 10.801 ms, 10.917 ms, 10.891 ms, 11.001 ms
+48 bytes from 1.1.1.1 via probe #60627 (49.36.188.12): ttl=53 times=44.536 ms, 43.85 ms, 42.714 ms, 44.175 ms, 45.613 ms
+48 bytes from 1.1.1.1 via probe #60641 (117.194.7.37): ttl=55 times=56.119 ms, 55.993 ms, 55.384 ms, 55.923 ms, 55.721 ms
+48 bytes from 1.1.1.1 via probe #1007337 (106.213.84.132): ttl=59 times=16.496 ms, 16.96 ms, 16.775 ms, 16.326 ms, 16.683 ms
+48 bytes from 1.1.1.1 via probe #1001196 (115.97.137.111): ttl=56 times=38.891 ms, 38.96 ms, 40.561 ms, 39.309 ms, 39.848 ms
+48 bytes from 1.1.1.1 via probe #7405 (160.20.123.10): ttl=56 times=23.07 ms, 23.038 ms, 23.161 ms, 23.019 ms, 23.086 ms
+48 bytes from 1.1.1.1 via probe #1006316 (59.92.172.68): ttl=55 times=23.077 ms, 23.036 ms, 23.151 ms, 23.066 ms, 22.725 ms
+48 bytes from 1.1.1.1 via probe #62703 (49.36.181.188): ttl=53 times=42.267 ms, 41.323 ms, 44.36 ms, 44.18 ms, 41.11 ms
+48 bytes from 1.1.1.1 via probe #1003760 (216.48.177.108): ttl=57 times=38.996 ms, 38.948 ms, 38.97 ms, 38.947 ms, 38.905 ms
+48 bytes from 1.1.1.1 via probe #1003761 (101.53.133.86): ttl=57 times=1.532 ms, 1.384 ms, 1.489 ms, 1.701 ms, 1.402 ms
+48 bytes from 1.1.1.1 via probe #1006322 (202.65.147.199): ttl=54 times=27.468 ms, 27.766 ms, 27.767 ms, 27.414 ms, 27.938 ms
+48 bytes from 1.1.1.1 via probe #1007344 (139.5.254.58): ttl=57 times=5.565 ms, 4.793 ms, 6.521 ms, 6.483 ms
+48 bytes from 1.1.1.1 via probe #1008880 (160.20.123.11): ttl=56 times=28.106 ms, 28.14 ms, 28.304 ms, 28.146 ms, 28.285 ms
+48 bytes from 1.1.1.1 via probe #1008381 (157.10.98.129): ttl=59 times=1.014 ms, 0.899 ms, 0.877 ms, 0.864 ms, 0.865 ms
+48 bytes from 1.1.1.1 via probe #1004294 (129.226.29.96): ttl=57 times=1.586 ms, 1.465 ms, 1.577 ms, 1.492 ms, 1.645 ms
+48 bytes from 1.1.1.1 via probe #1000203 (116.206.155.230): ttl=60 times=10.929 ms, 10.882 ms, 10.961 ms, 10.973 ms, 10.995 ms
+48 bytes from 1.1.1.1 via probe #64787 (49.205.144.253): ttl=56 times=20.42 ms, 38.401 ms, 20.566 ms, 20.464 ms, 20.189 ms
+48 bytes from 1.1.1.1 via probe #1008915 (103.199.173.10): ttl=55 times=3.045 ms, 3.161 ms, 2.619 ms, 3.273 ms
+48 bytes from 1.1.1.1 via probe #60694 (103.156.18.126): ttl=63 times=10.489 ms, 1.699 ms, 1.635 ms, 1.277 ms, 1.376 ms
+48 bytes from 1.1.1.1 via probe #1000726 (115.97.137.111): ttl=56 times=39.397 ms, 38.699 ms, 38.595 ms, 38.914 ms, 38.728 ms
+48 bytes from 1.1.1.1 via probe #1004312 (129.226.29.111): ttl=57 times=1.877 ms, 1.793 ms, 1.945 ms, 1.808 ms, 2.093 ms
+48 bytes from 1.1.1.1 via probe #1005849 (223.178.210.42): ttl=60 times=13.44 ms, 12.228 ms, 12.774 ms, 12.246 ms, 12.066 ms
+48 bytes from 1.1.1.1 via probe #1007722 (103.195.201.54): ttl=61 times=6.961 ms, 5.718 ms, 2.528 ms, 2.736 ms, 3.161 ms
+48 bytes from 1.1.1.1 via probe #25375 (203.193.179.28): ttl=57 times=49.804 ms, 49.603 ms, 49.457 ms, 49.709 ms, 49.603 ms
+48 bytes from 1.1.1.1 via probe #53537 (223.233.84.10): ttl=59 times=8.608 ms, 8.618 ms, 9.049 ms, 8.068 ms, 8.213 ms
+48 bytes from 1.1.1.1 via probe #62755 (103.212.147.12): ttl=58 times=5.692 ms, 5.099 ms, 4.679 ms, 4.969 ms, 4.888 ms
+48 bytes from 1.1.1.1 via probe #6953 (156.154.184.254): ttl=59 times=33.885 ms, 33.924 ms, 34.002 ms, 33.967 ms, 33.815 ms
+48 bytes from 1.1.1.1 via probe #6954 (156.154.183.254): ttl=59 times=24.71 ms, 24.59 ms, 24.758 ms, 24.723 ms, 24.762 ms
+48 bytes from 1.1.1.1 via probe #25398 (223.190.85.36): ttl=60 times=1.544 ms, 2.23 ms, 3.302 ms, 2.28 ms, 3.951 ms
+48 bytes from 1.1.1.1 via probe #6968 (159.65.150.114): ttl=59 times=0.773 ms, 0.819 ms, 0.842 ms, 0.786 ms, 0.926 ms
+48 bytes from 1.1.1.1 via probe #54081 (103.174.210.51): ttl=59 times=53.471 ms, 53.168 ms, 53.249 ms, 53.187 ms, 53.114 ms
+48 bytes from 1.1.1.1 via probe #1002818 (101.53.132.190): ttl=56 times=1.411 ms, 1.28 ms, 1.419 ms, 1.394 ms, 1.332 ms
+48 bytes from 1.1.1.1 via probe #62278 (103.199.173.10): ttl=56 times=3.624 ms, 2.815 ms, 3.237 ms, 3.305 ms
+48 bytes from 1.1.1.1 via probe #1009992 (49.47.195.13): ttl=52 times=22.175 ms, 20.747 ms, 22.914 ms, 23.843 ms, 21.216 ms
+48 bytes from 1.1.1.1 via probe #33101 (103.170.6.46): ttl=57 times=29.08 ms, 28.699 ms, 28.87 ms, 28.821 ms, 28.633 ms
+48 bytes from 1.1.1.1 via probe #24916 (103.114.66.229): ttl=55 times=50.062 ms, 50.298 ms, 50.224 ms, 50.54 ms, 50.068 ms
+48 bytes from 1.1.1.1 via probe #1003863 (129.154.237.210): ttl=59 times=1.358 ms, 1.216 ms, 1.286 ms, 1.348 ms, 1.527 ms
+48 bytes from 1.1.1.1 via probe #27480 (59.96.59.247): ttl=55 times=16.278 ms, 16.239 ms, 16.092 ms, 16.338 ms, 16.202 ms
+48 bytes from 1.1.1.1 via probe #1004375 (52.140.57.13): ttl=51 times=17.787 ms, 16.789 ms, 20.275 ms, 23.734 ms, 19.108 ms
+48 bytes from 1.1.1.1 via probe #1002842 (103.168.241.129): ttl=56 times=12.478 ms, 12.433 ms, 12.467 ms, 12.469 ms, 12.417 ms
+48 bytes from 1.1.1.1 via probe #54620 (117.242.97.154): ttl=54 times=18.639 ms, 18.07 ms, 18.529 ms, 17.981 ms, 18.392 ms
+48 bytes from 1.1.1.1 via probe #1008476 (103.97.46.3): ttl=59 times=29.735 ms, 29.897 ms, 29.664 ms, 29.797 ms, 29.644 ms
+48 bytes from 1.1.1.1 via probe #62302 (49.36.187.161): ttl=53 times=39.708 ms, 39.726 ms, 40.236 ms, 39.187 ms, 39.242 ms
+48 bytes from 1.1.1.1 via probe #1008995 (14.139.128.11): ttl=53 times=30.212 ms, 30.157 ms, 30.322 ms, 30.162 ms, 30.165 ms
+48 bytes from 1.1.1.1 via probe #53099 (103.160.46.3): ttl=58 times=24.709 ms, 24.131 ms, 24.579 ms, 24.031 ms, 24.27 ms
+48 bytes from 1.1.1.1 via probe #1003883 (143.244.135.25): ttl=59 times=2.369 ms, 0.82 ms, 0.872 ms, 0.81 ms, 0.837 ms
+48 bytes from 1.1.1.1 via probe #53613 (117.208.5.145): ttl=57 times=18.352 ms, 17.504 ms, 17.992 ms, 17.719 ms, 17.762 ms
+48 bytes from 1.1.1.1 via probe #62322 (49.36.223.217): ttl=53 times=38.958 ms, 39.382 ms, 38.352 ms, 38.106 ms, 38.543 ms
+48 bytes from 1.1.1.1 via probe #1003379 (13.233.37.136): ttl=57 times=1.396 ms, 1.358 ms, 1.455 ms, 1.382 ms, 1.373 ms
+48 bytes from 1.1.1.1 via probe #60276 (49.36.203.33): ttl=53 times=57.329 ms, 57.439 ms, 57.776 ms, 58.044 ms, 57.203 ms
+48 bytes from 1.1.1.1 via probe #1007478 (150.242.72.40): ttl=59 times=4.261 ms, 3.973 ms, 4.71 ms, 4.262 ms, 4.301 ms
+48 bytes from 1.1.1.1 via probe #60289 (103.159.35.147): ttl=59 times=3.229 ms, 3.217 ms, 3.599 ms, 3.95 ms, 3.446 ms
+48 bytes from 1.1.1.1 via probe #1004419 (20.198.116.111): ttl=53 times=3.605 ms, 3.397 ms, 3.455 ms, 3.433 ms, 3.55 ms
+48 bytes from 1.1.1.1 via probe #62855 (146.196.32.174): ttl=59 times=2.593 ms, 3.026 ms, 2.997 ms, 3.254 ms, 2.638 ms
+48 bytes from 1.1.1.1 via probe #1008521 (202.164.150.234): ttl=57 times=16.854 ms, 17.142 ms, 18.116 ms, 17.159 ms, 17.225 ms
+48 bytes from 1.1.1.1 via probe #55694 (117.247.236.144): ttl=55 times=14.025 ms, 14.027 ms
+48 bytes from 1.1.1.1 via probe #60321 (103.179.9.188): ttl=58 times=3.497 ms, 2.88 ms, 3.086 ms, 3.291 ms, 3.886 ms
+48 bytes from 1.1.1.1 via probe #7077 (216.48.178.84): ttl=57 times=37.126 ms, 37.217 ms, 37.348 ms, 37.222 ms, 37.168 ms
+48 bytes from 1.1.1.1 via probe #1003949 (150.230.129.60): ttl=59 times=1.396 ms, 1.397 ms, 1.535 ms, 1.379 ms, 1.353 ms
+48 bytes from 1.1.1.1 via probe #1001390 (103.108.58.9): ttl=56 times=47.533 ms, 47.054 ms, 46.576 ms, 47.303 ms, 47.303 ms
+48 bytes from 1.1.1.1 via probe #1002932 (223.184.179.113): ttl=57 times=22.137 ms, 32.888 ms, 23.263 ms, 19.096 ms, 23.337 ms
+48 bytes from 1.1.1.1 via probe #60347 (106.222.207.253): ttl=59 times=5.32 ms, 6.135 ms, 5.127 ms, 4.034 ms, 4.152 ms
+48 bytes from 1.1.1.1 via probe #52159 (103.61.113.228): ttl=58 times=69.243 ms, 68.684 ms, 68.593 ms, 68.285 ms, 68.724 ms
+48 bytes from 1.1.1.1 via probe #60887 (103.46.201.73): ttl=58 times=4.772 ms, 4.345 ms, 6.175 ms, 5.001 ms, 4.186 ms
+48 bytes from 1.1.1.1 via probe #13785 (103.78.46.1): ttl=59 times=7.703 ms, 7.702 ms, 7.86 ms, 7.6 ms, 7.335 ms
+48 bytes from 1.1.1.1 via probe #1005020 (18.60.90.95): ttl=56 times=22.491 ms, 22.492 ms, 22.574 ms, 22.561 ms, 22.542 ms
+48 bytes from 1.1.1.1 via probe #25064 (122.160.115.175): ttl=59 times=3.939 ms, 3.408 ms, 3.999 ms, 4.106 ms, 3.937 ms
+48 bytes from 1.1.1.1 via probe #1008627 (122.173.25.173): ttl=60 times=18.61 ms, 16.309 ms, 18.664 ms, 19.05 ms, 18.861 ms
+48 bytes from 1.1.1.1 via probe #64509 (103.85.89.250): ttl=59 times=16.788 ms, 15.967 ms, 16.196 ms, 16.202 ms, 16.779 ms
+
+--- 1.1.1.1 ping statistics ---
+623 packets transmitted, 623 received, 0.0% loss
+rtt min/med/avg/max = 0.431/10.801/17.173/459.307 ms
+PING 1.1.1.1 (resolved on server)
+48 bytes from 1.1.1.1 via probe #1007618 (113.192.4.14): ttl=58 times=17.165 ms, 16.962 ms, 17.171 ms, 17.159 ms, 17.1 ms
+48 bytes from 1.1.1.1 via probe #1001479 (182.78.47.136): ttl=56 times=43.743 ms, 43.73 ms, 43.738 ms, 44.637 ms, 44.152 ms
+48 bytes from 1.1.1.1 via probe #1000458 (202.53.8.243): ttl=56 times=12.913 ms, 12.916 ms, 12.836 ms, 12.644 ms, 12.746 ms
+48 bytes from 1.1.1.1 via probe #1004046 (103.250.184.188): ttl=57 times=29.074 ms, 26.02 ms, 29.197 ms, 29.181 ms, 29.163 ms
+48 bytes from 1.1.1.1 via probe #1004047 (159.89.171.96): ttl=59 times=2.245 ms, 2.003 ms, 1.069 ms, 0.908 ms, 0.902 ms
+48 bytes from 1.1.1.1 via probe #28176 (122.166.191.40): ttl=59 times=5.392 ms, 5.264 ms, 5.364 ms, 5.575 ms, 5.56 ms
+48 bytes from 1.1.1.1 via probe #1000979 (152.67.1.199): ttl=57 times=1.268 ms, 1.256 ms, 1.143 ms, 1.296 ms, 1.243 ms
+48 bytes from 1.1.1.1 via probe #62997 (122.161.52.123): ttl=59 times=9.111 ms, 5.562 ms, 3.092 ms, 6.298 ms, 6.947 ms
+48 bytes from 1.1.1.1 via probe #1008158 (5.188.228.45): ttl=55 times=2.37 ms, 2.453 ms, 2.403 ms, 2.255 ms, 2.275 ms
+48 bytes from 1.1.1.1 via probe #1000486 (59.182.97.21): ttl=58 times=15.753 ms, 18.143 ms, 17.33 ms, 17.268 ms, 17.704 ms
+48 bytes from 1.1.1.1 via probe #1005612 (171.79.122.0): ttl=58 times=5.686 ms, 8.849 ms, 7.343 ms, 5.378 ms, 4.854 ms
+48 bytes from 1.1.1.1 via probe #1001518 (103.108.57.27): ttl=57 times=48.74 ms, 47.851 ms, 48.095 ms, 47.406 ms, 47.361 ms
+48 bytes from 1.1.1.1 via probe #1005614 (49.206.2.26): ttl=56 times=15.065 ms, 15.102 ms, 15.103 ms, 15.122 ms, 15.115 ms
+48 bytes from 1.1.1.1 via probe #1009203 (202.173.127.171): ttl=57 times=3.085 ms, 3.29 ms, 3.411 ms, 4.774 ms, 3.419 ms
+48 bytes from 1.1.1.1 via probe #1004599 (49.43.96.118): ttl=53 times=45.546 ms, 45.972 ms, 591.149 ms, 47.101 ms, 45.602 ms
+48 bytes from 1.1.1.1 via probe #60479 (103.127.224.123): ttl=58 times=2.282 ms, 2.669 ms, 2.12 ms, 3.064 ms, 2.606 ms
+48 bytes from 1.1.1.1 via probe #1001549 (103.207.125.79): ttl=52 times=17.437 ms, 17.923 ms, 17.685 ms, 18.066 ms, 17.766 ms
+48 bytes from 1.1.1.1 via probe #28245 (49.36.121.49): ttl=53 times=27.673 ms, 27.599 ms, 29.992 ms, 31.815 ms, 28.859 ms
+48 bytes from 1.1.1.1 via probe #1004120 (45.64.190.62): ttl=58 times=1.711 ms, 1.201 ms, 1.139 ms, 1.103 ms, 1.228 ms
+48 bytes from 1.1.1.1 via probe #1007708 (122.166.69.18): ttl=55 times=9.37 ms, 8.57 ms, 9.152 ms, 9.276 ms, 8.661 ms
+48 bytes from 1.1.1.1 via probe #60512 (106.51.210.62): ttl=55 times=8.086 ms, 7.587 ms, 7.539 ms, 8.659 ms, 7.854 ms
+48 bytes from 1.1.1.1 via probe #1003619 (217.21.86.65): ttl=55 times=12.613 ms, 1.697 ms, 10.893 ms, 11.826 ms, 10.915 ms
+48 bytes from 1.1.1.1 via probe #1003620 (217.21.86.66): ttl=55 times=9.65 ms, 2.182 ms, 2.779 ms, 2.557 ms, 2.77 ms
+48 bytes from 1.1.1.1 via probe #7269 (116.206.155.229): ttl=60 times=10.749 ms, 10.761 ms, 10.764 ms, 10.799 ms, 10.785 ms
+48 bytes from 1.1.1.1 via probe #1003621 (217.21.86.67): ttl=54 times=12.883 ms, 6.741 ms, 2.96 ms, 2.425 ms, 2.954 ms
+48 bytes from 1.1.1.1 via probe #1003622 (217.21.86.68): ttl=55 times=9.624 ms, 2.517 ms, 11.966 ms, 2.492 ms, 11.656 ms
+48 bytes from 1.1.1.1 via probe #1003623 (217.21.86.69): ttl=55 times=13.535 ms, 2.505 ms, 2.192 ms, 2.268 ms, 2.691 ms
+48 bytes from 1.1.1.1 via probe #1003625 (217.21.86.71): ttl=55 times=10.987 ms, 2.168 ms, 2.517 ms, 2.249 ms, 12.257 ms
+48 bytes from 1.1.1.1 via probe #1003626 (217.21.86.72): ttl=55 times=11.848 ms, 1.498 ms, 4.399 ms, 1.614 ms, 1.689 ms
+48 bytes from 1.1.1.1 via probe #1003627 (217.21.86.73): ttl=55 times=11.605 ms, 2.788 ms, 3.104 ms, 2.721 ms, 2.409 ms
+48 bytes from 1.1.1.1 via probe #1003628 (217.21.86.74): ttl=55 times=9.681 ms, 2.271 ms, 1.989 ms, 1.635 ms, 1.718 ms
+48 bytes from 1.1.1.1 via probe #1003624 (217.21.86.70): ttl=55 times=12.504 ms, 1.897 ms, 2.234 ms, 1.611 ms, 2.292 ms
+48 bytes from 1.1.1.1 via probe #1003630 (217.21.86.76): ttl=55 times=10.215 ms, 1.884 ms, 2.038 ms, 2.027 ms, 1.891 ms
+48 bytes from 1.1.1.1 via probe #1003629 (217.21.86.75): ttl=55 times=11.916 ms, 5.662 ms, 2.205 ms, 2.675 ms, 4.694 ms
+48 bytes from 1.1.1.1 via probe #53360 (106.51.109.72): ttl=55 times=7.38 ms, 6.92 ms, 6.973 ms, 6.967 ms, 7.119 ms
+48 bytes from 1.1.1.1 via probe #1003631 (217.21.86.77): ttl=55 times=12.296 ms, 2.16 ms, 1.759 ms, 1.691 ms, 2.036 ms
+48 bytes from 1.1.1.1 via probe #1003632 (217.21.86.78): ttl=55 times=12.728 ms, 9.086 ms, 2.599 ms, 2.347 ms, 2.223 ms
+48 bytes from 1.1.1.1 via probe #1003633 (217.21.86.79): ttl=55 times=11.676 ms, 5.665 ms, 2.936 ms, 2.753 ms, 2.65 ms
+48 bytes from 1.1.1.1 via probe #1009260 (103.127.186.1): ttl=61 times=12.282 ms, 12.27 ms, 12.146 ms, 12.41 ms, 12.319 ms
+48 bytes from 1.1.1.1 via probe #62069 (49.37.251.62): ttl=53 times=10.283 ms, 9.044 ms, 9.684 ms, 10.423 ms, 9.349 ms
+48 bytes from 1.1.1.1 via probe #1008761 (103.68.108.26): ttl=59 times=1.582 ms, 1.106 ms, 1.416 ms, 1.103 ms, 1.198 ms
+48 bytes from 1.1.1.1 via probe #50302 (103.61.113.121): ttl=58 times=69.396 ms, 68.733 ms, 69.205 ms, 68.575 ms, 69.198 ms
+48 bytes from 1.1.1.1 via probe #1008783 (103.178.205.110): ttl=58 times=22.996 ms, 16.54 ms, 15.888 ms, 15.66 ms, 16.058 ms
+48 bytes from 1.1.1.1 via probe #1004134 (103.169.53.9): ttl=60 times=31.071 ms, 31.049 ms, 30.926 ms, 31.175 ms, 31.274 ms
+48 bytes from 1.1.1.1 via probe #60576 (103.136.39.207): ttl=58 times=22.306 ms, 23.404 ms, 22.685 ms, 22.833 ms, 22.209 ms
+48 bytes from 1.1.1.1 via probe #1004196 (144.24.117.26): ttl=57 times=1.298 ms, 1.318 ms, 1.244 ms, 1.231 ms, 1.224 ms
+48 bytes from 1.1.1.1 via probe #1000620 (103.126.228.10): ttl=61 times=2.321 ms, 2.044 ms, 1.106 ms, 1.446 ms, 1.168 ms
+48 bytes from 1.1.1.1 via probe #60592 (103.61.113.121): ttl=58 times=69.12 ms, 69.022 ms, 68.84 ms, 68.678 ms, 69.005 ms
+48 bytes from 1.1.1.1 via probe #1003696 (103.176.189.67): ttl=61 times=4.452 ms, 1.561 ms, 1.661 ms, 1.458 ms, 1.528 ms
+48 bytes from 1.1.1.1 via probe #1004211 (34.100.184.27): ttl=61 times=4.424 ms, 1.033 ms, 1.075 ms, 1.242 ms, 1.02 ms
+48 bytes from 1.1.1.1 via probe #61108 (106.219.155.188): ttl=59 times=5.623 ms, 4.517 ms, 4.214 ms, 5.654 ms, 4.915 ms
+48 bytes from 1.1.1.1 via probe #17590 (223.185.134.31): ttl=59 times=6.066 ms, 6.377 ms, 5.654 ms, 5.498 ms, 4.855 ms
+48 bytes from 1.1.1.1 via probe #1008317 (82.180.146.82): ttl=60 times=13.072 ms, 2.269 ms, 2.631 ms, 7.245 ms, 2.035 ms
+48 bytes from 1.1.1.1 via probe #1008829 (106.51.210.241): ttl=54 times=6.857 ms, 6.881 ms, 7.061 ms, 6.811 ms, 6.798 ms
+48 bytes from 1.1.1.1 via probe #61639 (103.215.237.177): ttl=60 times=4.791 ms, 4.557 ms, 5.105 ms
+48 bytes from 1.1.1.1 via probe #1008840 (103.240.104.235): ttl=61 times=1.217 ms, 1.192 ms, 1.076 ms, 1.085 ms, 1.149 ms
+48 bytes from 1.1.1.1 via probe #64718 (49.37.113.217): ttl=53 times=26.846 ms, 28.891 ms, 27.578 ms, 28.985 ms, 28.442 ms
+48 bytes from 1.1.1.1 via probe #7375 (103.136.36.102): ttl=60 times=20.776 ms, 20.566 ms, 20.644 ms, 20.611 ms, 20.575 ms
+48 bytes from 1.1.1.1 via probe #28879 (117.247.92.170): ttl=57 times=10.613 ms, 11.09 ms, 10.974 ms, 11.171 ms, 10.963 ms
+48 bytes from 1.1.1.1 via probe #60627 (49.36.188.12): ttl=53 times=45.138 ms, 44.45 ms, 42.776 ms, 43.589 ms, 44.405 ms
+48 bytes from 1.1.1.1 via probe #60641 (117.194.13.190): ttl=56 times=48.373 ms, 47.713 ms, 48.364 ms, 47.973 ms, 47.239 ms
+48 bytes from 1.1.1.1 via probe #1007337 (106.213.84.132): ttl=59 times=14.376 ms, 9.619 ms, 17.65 ms, 9.653 ms, 19.55 ms
+48 bytes from 1.1.1.1 via probe #1001196 (27.5.39.94): ttl=56 times=39.273 ms, 37.889 ms, 38.306 ms, 38.022 ms, 38.11 ms
+48 bytes from 1.1.1.1 via probe #7405 (160.20.123.10): ttl=56 times=25.529 ms, 23.707 ms, 27.764 ms, 23.506 ms, 27.689 ms
+48 bytes from 1.1.1.1 via probe #1006316 (59.92.172.68): ttl=55 times=21.699 ms, 21.239 ms, 21.085 ms, 21.794 ms, 21.492 ms
+48 bytes from 1.1.1.1 via probe #62703 (49.36.181.188): ttl=53 times=39.468 ms, 41.171 ms, 40.382 ms, 43.221 ms, 42.701 ms
+48 bytes from 1.1.1.1 via probe #1003760 (216.48.177.108): ttl=57 times=37.974 ms, 37.944 ms, 38.051 ms, 37.931 ms, 38.011 ms
+48 bytes from 1.1.1.1 via probe #1003761 (101.53.133.86): ttl=57 times=1.535 ms, 1.438 ms, 1.377 ms, 1.558 ms, 1.544 ms
+48 bytes from 1.1.1.1 via probe #1006322 (202.65.147.199): ttl=54 times=20.222 ms, 20.669 ms, 20.334 ms, 20.62 ms, 20.36 ms
+48 bytes from 1.1.1.1 via probe #1007344 (139.5.254.58): ttl=57 times=4.398 ms, 4.148 ms, 6.843 ms
+48 bytes from 1.1.1.1 via probe #1008880 (160.20.123.11): ttl=56 times=23.058 ms, 22.92 ms, 24.141 ms, 25.013 ms, 27.288 ms
+48 bytes from 1.1.1.1 via probe #1008381 (157.10.98.129): ttl=59 times=0.973 ms, 0.94 ms, 0.887 ms, 0.87 ms, 0.886 ms
+48 bytes from 1.1.1.1 via probe #1004294 (129.226.29.96): ttl=57 times=1.54 ms, 1.598 ms, 1.552 ms, 1.544 ms, 1.56 ms
+48 bytes from 1.1.1.1 via probe #29959 (117.201.213.98): ttl=57 times=17.105 ms, 17.668 ms, 16.775 ms, 17.627 ms, 17.622 ms
+48 bytes from 1.1.1.1 via probe #1000203 (116.206.155.230): ttl=60 times=10.82 ms, 10.76 ms, 10.771 ms, 10.783 ms, 10.821 ms
+48 bytes from 1.1.1.1 via probe #64787 (49.205.144.253): ttl=56 times=21.154 ms, 20.406 ms, 20.504 ms, 21.366 ms, 20.802 ms
+48 bytes from 1.1.1.1 via probe #1008915 (103.199.173.10): ttl=55 times=3.568 ms, 5.186 ms, 2.893 ms, 2.975 ms, 3.406 ms
+48 bytes from 1.1.1.1 via probe #60694 (103.156.18.126): ttl=63 times=3.391 ms, 1.879 ms, 1.652 ms, 1.457 ms, 0.993 ms
+48 bytes from 1.1.1.1 via probe #1000726 (27.5.39.94): ttl=56 times=38.738 ms, 38.16 ms, 39.106 ms, 37.95 ms, 42.031 ms
+48 bytes from 1.1.1.1 via probe #1004312 (129.226.29.111): ttl=57 times=1.984 ms, 1.934 ms, 1.95 ms, 1.847 ms, 1.88 ms
+48 bytes from 1.1.1.1 via probe #1005849 (223.178.210.42): ttl=60 times=16.423 ms, 15.856 ms, 16.052 ms, 15.859 ms, 14.434 ms
+48 bytes from 1.1.1.1 via probe #1007722 (103.195.201.54): ttl=61 times=8.246 ms, 5.785 ms, 5.978 ms, 6.432 ms, 5.924 ms
+48 bytes from 1.1.1.1 via probe #25375 (203.193.179.28): ttl=57 times=49.9 ms, 49.813 ms, 49.894 ms, 49.849 ms, 49.9 ms
+48 bytes from 1.1.1.1 via probe #53537 (223.233.84.10): ttl=59 times=8.78 ms, 7.873 ms, 8.29 ms, 8.376 ms, 8.257 ms
+48 bytes from 1.1.1.1 via probe #62755 (103.212.147.12): ttl=58 times=7.813 ms, 4.312 ms, 4.195 ms, 5.551 ms, 5.27 ms
+48 bytes from 1.1.1.1 via probe #6953 (156.154.184.254): ttl=59 times=34.018 ms, 33.999 ms, 33.982 ms, 34.055 ms, 34.02 ms
+48 bytes from 1.1.1.1 via probe #6954 (156.154.183.254): ttl=59 times=21.563 ms, 21.564 ms, 21.673 ms, 21.654 ms, 21.612 ms
+48 bytes from 1.1.1.1 via probe #25398 (223.190.85.36): ttl=60 times=1.456 ms, 2.907 ms, 2.829 ms, 3.773 ms, 4.1 ms
+48 bytes from 1.1.1.1 via probe #6968 (159.65.150.114): ttl=59 times=0.766 ms, 0.919 ms, 0.91 ms, 0.854 ms, 0.855 ms
+48 bytes from 1.1.1.1 via probe #54081 (103.174.210.51): ttl=59 times=52.215 ms, 52.533 ms, 52.011 ms, 52.375 ms, 52.007 ms
+48 bytes from 1.1.1.1 via probe #1002818 (101.53.132.190): ttl=56 times=1.353 ms, 1.357 ms, 2.028 ms, 1.29 ms, 1.326 ms
+48 bytes from 1.1.1.1 via probe #62278 (103.199.173.10): ttl=56 times=4.705 ms, 32.121 ms, 4.247 ms, 3.744 ms, 3.825 ms
+48 bytes from 1.1.1.1 via probe #1009992 (49.47.195.13): ttl=52 times=17.903 ms, 17.656 ms, 18.035 ms, 16.741 ms, 19.026 ms
+48 bytes from 1.1.1.1 via probe #33101 (103.170.6.46): ttl=57 times=32.627 ms, 32.774 ms, 32.314 ms, 32.396 ms, 32.321 ms
+48 bytes from 1.1.1.1 via probe #24916 (103.114.66.229): ttl=55 times=53.048 ms, 52.351 ms, 52.701 ms, 52.946 ms, 52.467 ms
+48 bytes from 1.1.1.1 via probe #1003863 (129.154.237.210): ttl=57 times=1.24 ms, 1.466 ms, 1.304 ms, 1.389 ms, 1.215 ms
+48 bytes from 1.1.1.1 via probe #27480 (59.96.59.247): ttl=55 times=23.516 ms, 19.549 ms, 20.097 ms, 19.648 ms, 19.821 ms
+48 bytes from 1.1.1.1 via probe #1004375 (52.140.57.13): ttl=51 times=28.886 ms, 17.494 ms, 16.79 ms, 16.861 ms, 19.501 ms
+48 bytes from 1.1.1.1 via probe #1002842 (103.168.241.129): ttl=56 times=15.274 ms, 15.115 ms, 15.2 ms, 15.122 ms, 15.205 ms
+48 bytes from 1.1.1.1 via probe #54620 (117.242.97.154): ttl=54 times=19.3 ms, 19.083 ms, 20.233 ms, 18.885 ms, 18.783 ms
+48 bytes from 1.1.1.1 via probe #1008476 (103.97.46.3): ttl=59 times=29.931 ms, 29.717 ms, 39.188 ms, 92.222 ms, 29.686 ms
+48 bytes from 1.1.1.1 via probe #62302 (49.36.187.161): ttl=53 times=42.657 ms, 42.088 ms, 41.595 ms, 41.571 ms, 42.729 ms
+48 bytes from 1.1.1.1 via probe #1008995 (14.139.128.11): ttl=53 times=17.881 ms, 17.693 ms, 17.702 ms, 17.771 ms, 17.695 ms
+48 bytes from 1.1.1.1 via probe #53099 (103.160.46.3): ttl=58 times=41.319 ms, 41.494 ms, 41.621 ms, 42.056 ms, 41.924 ms
+48 bytes from 1.1.1.1 via probe #1003883 (143.244.135.25): ttl=59 times=5.532 ms, 0.865 ms, 6.465 ms, 0.813 ms, 0.85 ms
+48 bytes from 1.1.1.1 via probe #53613 (59.183.187.222): ttl=55 times=22.379 ms, 22.564 ms, 22.538 ms, 22.502 ms, 22.695 ms
+48 bytes from 1.1.1.1 via probe #62322 (49.36.223.217): ttl=53 times=38.588 ms, 38.056 ms, 38.431 ms, 38.226 ms, 38.535 ms
+48 bytes from 1.1.1.1 via probe #1003379 (13.233.37.136): ttl=57 times=1.39 ms, 1.443 ms, 1.398 ms, 1.422 ms, 1.435 ms
+48 bytes from 1.1.1.1 via probe #60276 (49.36.203.33): ttl=53 times=55.861 ms, 55.886 ms, 55.752 ms, 56.356 ms, 56.14 ms
+48 bytes from 1.1.1.1 via probe #1007478 (150.242.72.40): ttl=59 times=3.798 ms, 2.084 ms, 2.002 ms, 1.927 ms, 2.02 ms
+48 bytes from 1.1.1.1 via probe #60289 (103.159.35.147): ttl=59 times=7.526 ms, 3.968 ms, 3.193 ms, 4.753 ms, 4.125 ms
+48 bytes from 1.1.1.1 via probe #1004419 (20.198.116.111): ttl=53 times=3.581 ms, 3.561 ms, 3.514 ms, 3.438 ms, 3.561 ms
+48 bytes from 1.1.1.1 via probe #62855 (146.196.34.206): ttl=59 times=4.388 ms, 3.79 ms, 2.961 ms, 3.544 ms, 3.702 ms
+48 bytes from 1.1.1.1 via probe #1008521 (202.164.150.234): ttl=57 times=16.906 ms, 17.319 ms, 17.519 ms, 17.396 ms, 17.172 ms
+48 bytes from 1.1.1.1 via probe #55694 (117.247.236.144): ttl=55 times=13.934 ms, 13.367 ms, 13.255 ms, 13.903 ms, 13.392 ms
+48 bytes from 1.1.1.1 via probe #60321 (103.179.9.188): ttl=58 times=2.799 ms, 2.49 ms, 2.828 ms, 3.012 ms, 2.468 ms
+48 bytes from 1.1.1.1 via probe #7077 (216.48.178.84): ttl=57 times=36.266 ms, 36.205 ms, 36.247 ms, 36.285 ms, 36.242 ms
+48 bytes from 1.1.1.1 via probe #1003949 (150.230.129.60): ttl=59 times=8.58 ms, 1.438 ms, 1.559 ms, 1.424 ms, 1.432 ms
+48 bytes from 1.1.1.1 via probe #1002932 (223.184.179.113): ttl=57 times=32.343 ms, 36.306 ms, 62.985 ms, 31.425 ms, 31.426 ms
+48 bytes from 1.1.1.1 via probe #60347 (106.222.207.253): ttl=59 times=6.733 ms, 3.106 ms, 3.493 ms, 5.2 ms, 3.677 ms
+48 bytes from 1.1.1.1 via probe #52159 (103.61.113.121): ttl=58 times=69.076 ms, 69.55 ms, 68.845 ms, 68.945 ms, 68.772 ms
+48 bytes from 1.1.1.1 via probe #60887 (103.46.201.73): ttl=58 times=4.884 ms, 4.715 ms, 4.313 ms, 5.178 ms, 3.791 ms
+48 bytes from 1.1.1.1 via probe #13785 (103.78.46.1): ttl=59 times=8.378 ms, 7.995 ms, 8.168 ms, 8.175 ms, 8.027 ms
+48 bytes from 1.1.1.1 via probe #1005020 (18.60.90.95): ttl=56 times=22.657 ms, 22.594 ms, 22.62 ms, 22.573 ms, 22.588 ms
+48 bytes from 1.1.1.1 via probe #25064 (122.160.115.175): ttl=59 times=3.95 ms, 4.031 ms, 3.499 ms, 3.747 ms, 3.499 ms
+48 bytes from 1.1.1.1 via probe #1008627 (122.173.25.173): ttl=60 times=16.206 ms, 18.943 ms, 19.191 ms, 19.621 ms, 18.098 ms
+48 bytes from 1.1.1.1 via probe #64509 (103.85.89.250): ttl=59 times=16.947 ms, 17.059 ms, 17.017 ms, 17.094 ms, 16.825 ms
+
+--- 1.1.1.1 ping statistics ---
+631 packets transmitted, 631 received, 0.0% loss
+rtt min/med/avg/max = 0.766/10.783/17.441/591.149 ms
