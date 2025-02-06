@@ -1,4 +1,4 @@
-**RIPE Atlas Ping/Dns Measurement Scripts**
+<h2>RIPE Atlas Ping/Dns Measurement Scripts</h2>
 
 These Bash scripts are designed to measure the average ping/Dns times from various Indian probes to a set of specified IP addresses using the RIPE Atlas platform. The script collects ping/Dns measurement data, processes it and calculates the average ping/dns query time.
 
