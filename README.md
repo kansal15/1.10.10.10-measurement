@@ -35,7 +35,7 @@ These Bash scripts are designed to measure the average ping/Dns times from vario
 
   1. The script outputs the average Ping/Dns times.
 
-  2. OPTIONAL: It also creates an HTML file (main.html) that visually displays the ping times using progress bars.
+  2. It also creates an HTML file (main.html) that visually displays the ping times using progress bars.
 
 **Files Generated**
 
