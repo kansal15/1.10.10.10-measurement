@@ -26,6 +26,8 @@ Usage:
 
     Ensure the RIPE Atlas CLI is installed and configured.
 
+    [Installation Document] (https://ripe-atlas-tools.readthedocs.io/en/latest/installation.html)
+
     Update the ip_addresses array with the desired IP addresses.
 
     Run the script in a Bash environment.
