@@ -1,9 +1,9 @@
 #!/bin/bash
 
-cd /root/allip/
+dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$dir"
 
 # List of IP addresses to process
-#ip_addresses=("1.10.10.10")
 ip_addresses=("1.10.10.10" "1.1.1.1" "8.8.8.8" "9.9.9.9")
 
 stopped_after_date=$(date -d "15 days ago" +%Y-%m-%d)
@@ -15,9 +15,6 @@ output_file="output.txt"
 
 echo " " >> "$output_file"
 echo "Date: $(date +%d-%m-%Y)" >> "$output_file"
-
-# Clear the output file
-##> "$output_file"
 
 # Get the list of Indian IPv4 probes
 /root/.local/bin/ripe-atlas probe-search --country IN --status 1 --limit 500 --ids-only > list.of.indian.ipv4.probes
