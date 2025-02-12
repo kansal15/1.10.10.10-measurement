@@ -1,46 +1,34 @@
-<h2>RIPE Atlas Ping/Dns Measurement Scripts</h2>
+<h2>DNS Servers: A Brief Overview</h2>
 
-These Bash scripts are designed to measure the average ping/Dns times from various Indian probes to a set of specified IP addresses using the RIPE Atlas platform. The script collects ping/Dns measurement data, processes it and calculates the average ping/dns query time.
+DNS (Domain Name System) servers are essential components of the internet that translate human-readable domain names (e.g., www.nic.in) into machine-readable IP addresses (e.g., 192.0.2.1). This process allows users to access websites and services using easy-to-remember names instead of complex numerical addresses.
 
-**Features:**
+How DNS Servers Work
 
-1. IP Addresses: The script allows you to specify a list of IP addresses to measure ping times.
+    Query Initiation: When you type a domain name into your browser, your device sends a query to a DNS server.
 
-2. Date Range: You can define a date range for the measurements, defaulting to the last 15 days.
+    Recursive Resolution: The DNS server searches for the corresponding IP address by querying other DNS servers in a hierarchical manner (root servers, TLD servers, authoritative servers).
 
-3. Indian Probes: The script searches for Indian probes using the RIPE Atlas API and aggregates ping results from these probes.
+    Response: Once the IP address is found, it is returned to your device, allowing the browser to connect to the desired website or service.
 
-4. Average Ping Calculation: It calculates the average ping time for each IP address from the collected data.
+Types of DNS Servers
 
-5. HTML Report: The script generates an HTML file (main.html) that visually represents the ping times using progress bars.
+    Recursive Resolver: Handles DNS queries from clients and communicates with other DNS servers to find the correct IP address.
+
+    Root Server: The top-level DNS server that directs queries to the appropriate Top-Level Domain (TLD) server.
+
+    TLD Server: Manages domain extensions (e.g., .com, .org) and directs queries to authoritative servers.
+
+    Authoritative Server: Holds the actual DNS records for a specific domain and provides the final IP address.
+
+Why DNS Servers Matter
+
+    User Convenience: Makes it easier to navigate the internet using domain names instead of IP addresses.
+
+    Load Distribution: Enables load balancing by directing traffic to different servers.
+
+    Redundancy and Reliability: Ensures internet services remain accessible even if some servers fail.
 
 
-**Usage:**
+Use case of this repository
 
-  Prerequisites:
-
-  1. Ensure you have the ripe-atlas command-line tool & bc installed and configured.
-
-  Configuration:
-
-1.  Modify the ip_addresses array to include the IP addresses you want to measure.
-
-2.  Adjust the stopped_after_date and stopped_before_date variables if you need a different date range.
-
-**Execution:**
-
-  1. Run the script
-
-**Output:**
-
-  1. The script outputs the average Ping/Dns times.
-
-  2. It also creates an HTML file (main.html) that visually displays the ping times using progress bars.
-
-**Files Generated**
-
-   1. list.of.indian.ipv4.probes: Contains the list of Indian probes.
-
-   2. YYYY-MM-DD-YYYY-MM-DD.IP_ADDRESS.ping.measurements: Contains the measurement IDs for each IP address.
-
-   3. ping.IP_ADDRESS.from.indian.probes: Contains the ping results from Indian probes for each IP address.
+    In this repository we will be providing shell scripts to measure average Ping & DNS response time from some of the well known DNS servers like 1.10.10.10, 1.1.1.1, 8.8.8.8, 9.9.9.9
