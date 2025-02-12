@@ -65,5 +65,6 @@ for ip_address in "${ip_addresses[@]}"; do
     fi
 
     # Save only the average ping time to the output file
+    printf "Avg ping time for $ip_address is :%.2f\n" $avg
     printf "Avg ping time for $ip_address is :%.2f\n" $avg >> "$output_file"
 done
