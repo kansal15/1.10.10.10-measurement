@@ -31,4 +31,8 @@ Why DNS Servers Matter
 
 Use case of this repository
 
-    In this repository we will be providing shell scripts to measure average Ping & DNS response time from some of the well known DNS servers like 1.10.10.10, 1.1.1.1, 8.8.8.8, 9.9.9.9
+    In this repository we will be providing shell scripts to measure average Ping & DNS response time using RIPE atlas cli-tool & RIPE Atlas probes from some of the well known DNS servers like 1.10.10.10, 1.1.1.1, 8.8.8.8, 9.9.9.9
+
+[Ping Measurement script](https://github.com/kansal15/1.10.10.10-measurement/tree/main/ping)
+
+[DNS Measurement script](https://github.com/kansal15/1.10.10.10-measurement/tree/main/dns)
