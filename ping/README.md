@@ -24,9 +24,9 @@ Dependencies:
 
 Usage:
 
-    Ensure the RIPE Atlas CLI is installed and configured.
+[RIPE Atlas command-line tool](https://ripe-atlas-tools.readthedocs.io/en/latest/installation.html)
 
-    [Installation Document] (https://ripe-atlas-tools.readthedocs.io/en/latest/installation.html)
+    Ensure the RIPE Atlas CLI is installed and configured.
 
     Update the ip_addresses array with the desired IP addresses.
 
