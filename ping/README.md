@@ -1,3 +1,5 @@
+Ping measurement script
+
 This Bash script is designed to calculate the average ping time from Indian IPv4 probes to a list of specified IP addresses over a 15-day period. The script uses the RIPE Atlas API to search for ping measurements and processes the results to compute the average ping time for each IP address.
 
 Key Features:
