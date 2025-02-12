@@ -1,6 +1,6 @@
-Ping measurement script
+**Ping measurement script**
 
-This Bash script is designed to calculate the average ping time from Indian IPv4 probes to a list of specified IP addresses over a 15-day period. The script uses the RIPE Atlas API to search for ping measurements and processes the results to compute the average ping time for each IP address.
+This Bash script (ping_measurement_India.sh) is designed to calculate the average ping time from Indian IPv4 probes to a list of specified IP addresses over a 15-day period. The script uses the RIPE Atlas API to search for ping measurements and processes the results to compute the average ping time for each IP address.
 
 Key Features:
 
@@ -18,7 +18,7 @@ Output:
 
 Dependencies:
 
-    RIPE Atlas CLI: The script requires the RIPE Atlas command-line tool (ripe-atlas) to interact with the RIPE Atlas API.
+    RIPE Atlas CLI: The script requires the RIPE Atlas command-line tool (ripe-atlas) & bc to interact with the RIPE Atlas API.
 
     Bash Environment: The script is written in Bash and should be executed in a compatible shell environment.
 
