@@ -1,0 +1,500 @@
+
+
+Probe #1010696
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52292
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              27       IN     A      17.253.144.10
+
+  ;; Query time: 30.516 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #1004047
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29091
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              361      IN     A      17.253.144.10
+
+  ;; Query time: 2.826 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #62997
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41557
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              26       IN     A      17.253.144.10
+
+  ;; Query time: 160.95 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:27 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #1008158
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24239
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              27       IN     A      17.253.144.10
+
+  ;; Query time: 12.15 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #1004120
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6924
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              361      IN     A      17.253.144.10
+
+  ;; Query time: 16.841 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #53360
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46824
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              360      IN     A      17.253.144.10
+
+  ;; Query time: 4.49 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:28 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #64692
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41557
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              27       IN     A      17.253.144.10
+
+  ;; Query time: 90.626 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #1008840
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7235
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              361      IN     A      17.253.144.10
+
+  ;; Query time: 18.825 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #60109
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8279
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              826      IN     A      17.253.144.10
+
+  ;; Query time: 4.802 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:27 IST 2025
+  ;; MSG SIZE  rcvd: 68
+
+
+Probe #60627
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 934
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              54       IN     A      17.253.144.10
+
+  ;; Query time: 10.309 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:27 IST 2025
+  ;; MSG SIZE  rcvd: 68
+
+
+Probe #62703
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52175
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              13       IN     A      17.253.144.10
+
+  ;; Query time: 7.209 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:27 IST 2025
+  ;; MSG SIZE  rcvd: 68
+
+
+Probe #62302
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26610
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              258      IN     A      17.253.144.10
+
+  ;; Query time: 6.347 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 68
+
+
+Probe #1008476
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21932
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              27       IN     A      17.253.144.10
+
+  ;; Query time: 40.349 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #62322
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3141
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              35       IN     A      17.253.144.10
+
+  ;; Query time: 9.4 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:27 IST 2025
+  ;; MSG SIZE  rcvd: 68
+
+
+Probe #1003379
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4531
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              27       IN     A      17.253.144.10
+
+  ;; Query time: 16.143 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #1010555
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45298
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              361      IN     A      17.253.144.10
+
+  ;; Query time: 43.86 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:26 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #1011623
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61399
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              884      IN     A      17.253.144.10
+
+  ;; Query time: 21.216 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:53:33 IST 2025
+  ;; MSG SIZE  rcvd: 68
+
+
+Probe #1011155
+===============================================================================
+
+  No response found
+
+
+Probe #1005020
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65103
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              362      IN     A      17.253.144.10
+
+  ;; Query time: 24.458 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:25 IST 2025
+  ;; MSG SIZE  rcvd: 67
+
+
+Probe #1008627
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> apple.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47363
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;apple.com.                      IN     A    
+
+  ;; ANSWER SECTION:
+  apple.com.              28       IN     A      17.253.144.10
+
+  ;; Query time: 97.295 msec
+  ;; SERVER: 2409::1#53(2409::1)
+  ;; WHEN: Tue Aug 19 15:54:25 IST 2025
+  ;; MSG SIZE  rcvd: 67
