@@ -1,0 +1,514 @@
+
+
+Probe #1000458
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45298
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+
+  ;; Query time: 1037.518 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 22 16:55:07 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #62064
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41557
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 4096
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    604800   IN     TXT    Cloudflare DNS, BLR
+  hostname.as112.arpa.    604800   IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    604800   IN     TXT    Service stats: https://radar.cloudflare.com/as112
+
+  ;; Query time: 259.914 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 22 16:55:09 IST 2025
+  ;; MSG SIZE  rcvd: 202
+
+
+Probe #1004196
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1503
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 1111.321 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 22 16:55:07 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #1008829
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64677
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 897.323 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 22 16:55:07 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #1006322
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38973
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 1096.06 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 22 16:55:06 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #54015
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49086
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21599    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+  hostname.as112.arpa.    21599    IN     TXT    See http://www.as112.net/ for more information.
+
+  ;; Query time: 9.379 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 22 16:55:08 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #64787
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8279
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 904.357 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 22 16:55:08 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #53099
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58153
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 34.069 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 22 16:55:09 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #55778
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24770
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+
+  ;; Query time: 911.116 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 22 16:55:08 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #64787
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> nxdm1761168265.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44887
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;nxdm1761168265.com.             IN     A    
+
+  ;; AUTHORITY SECTION:
+  com.                    900      IN     SOA    a.gtld-servers.net. nstld.verisign-grs.com. 1761168419 1800 900 604800 900
+
+  ;; Query time: 275.178 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Thu Oct 23 02:57:32 IST 2025
+  ;; MSG SIZE  rcvd: 133
+
+
+Probe #1000458
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45298
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 908.313 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 29 16:55:06 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #62064
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57825
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 4096
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    604800   IN     TXT    Cloudflare DNS, BLR
+  hostname.as112.arpa.    604800   IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    604800   IN     TXT    Service stats: https://radar.cloudflare.com/as112
+
+  ;; Query time: 963.817 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 29 16:55:08 IST 2025
+  ;; MSG SIZE  rcvd: 202
+
+
+Probe #1004196
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39788
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 891.596 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 29 16:55:06 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #1008829
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45298
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 905.209 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 29 16:55:06 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #1006322
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52771
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 1005.658 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 29 16:55:05 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #54015
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41557
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+
+  ;; Query time: 1371.31 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 29 16:55:07 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #64787
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5068
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+
+  ;; Query time: 684.062 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 29 16:55:07 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #53099
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57017
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21598    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+  hostname.as112.arpa.    21598    IN     TXT    See http://www.as112.net/ for more information.
+
+  ;; Query time: 29.615 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 29 16:55:09 IST 2025
+  ;; MSG SIZE  rcvd: 197
+
+
+Probe #55778
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> hostname.as112.arpa.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35956
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 512
+
+  ;; QUESTION SECTION:
+  ;hostname.as112.arpa.            IN     TXT  
+
+  ;; ANSWER SECTION:
+  hostname.as112.arpa.    21600    IN     TXT    Ulitsa Mamina-Sibiryaka 145 Yekaterinburg Russia NPO Avtomatiki
+  hostname.as112.arpa.    21600    IN     TXT    See http://www.as112.net/ for more information.
+
+  ;; Query time: 48.327 msec
+  ;; SERVER: 8.8.8.8#53(8.8.8.8)
+  ;; WHEN: Wed Oct 29 16:55:07 IST 2025
+  ;; MSG SIZE  rcvd: 197

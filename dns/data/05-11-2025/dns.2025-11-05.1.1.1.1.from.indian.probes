@@ -1,0 +1,1789 @@
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> settings.luckyorange.net.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 51342
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;settings.luckyorange.net.       IN     A    
+
+  ;; Query time: 5.816 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:16 IST 2025
+  ;; MSG SIZE  rcvd: 42
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> adobemetrics.okta.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 31941
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;adobemetrics.okta.com.          IN     A    
+
+  ;; Query time: 3.907 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:19 IST 2025
+  ;; MSG SIZE  rcvd: 39
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> shb-sync.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 61020
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;shb-sync.com.                   IN     A    
+
+  ;; Query time: 5.436 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:22 IST 2025
+  ;; MSG SIZE  rcvd: 30
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> master.prismic.io.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11249
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;master.prismic.io.              IN     A    
+
+  ;; Query time: 5.868 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:24 IST 2025
+  ;; MSG SIZE  rcvd: 35
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> sonyglobal.demdex.net.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 29922
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;sonyglobal.demdex.net.          IN     A    
+
+  ;; Query time: 3.557 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:25 IST 2025
+  ;; MSG SIZE  rcvd: 39
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> statics.hokibagus.club.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 49329
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;statics.hokibagus.club.         IN     A    
+
+  ;; Query time: 5.957 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:28 IST 2025
+  ;; MSG SIZE  rcvd: 40
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> pansalb.org.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 16792
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;pansalb.org.                    IN     A    
+
+  ;; Query time: 3.234 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:30 IST 2025
+  ;; MSG SIZE  rcvd: 29
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> analitik.uab.gov.tr.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 4061
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;analitik.uab.gov.tr.            IN     A    
+
+  ;; Query time: 5.194 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:32 IST 2025
+  ;; MSG SIZE  rcvd: 37
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> silahilani.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 9466
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;silahilani.com.                 IN     A    
+
+  ;; Query time: 5.403 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:35 IST 2025
+  ;; MSG SIZE  rcvd: 32
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> www.klinikkompass.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 9213
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;www.klinikkompass.com.          IN     A    
+
+  ;; Query time: 3.483 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:37 IST 2025
+  ;; MSG SIZE  rcvd: 39
+
+
+Probe #1007618
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 42883
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 218.257 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1004047
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 54964
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1756     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 3.333 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #62997
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 148
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 12.556 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1008158
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 52137
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 35.302 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1001518
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 29442
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; Query time: 0.487 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 60
+
+
+Probe #1009203
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 58431
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 15.471 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:45 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1001549
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 39147
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 26.526 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1004120
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 10752
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1756     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 2.513 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1007194
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 12452
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1755     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 33.74 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #52835
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 55867
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1754     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 16.18 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:50 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #53360
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 3751
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 5.793 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:51 IST 2025
+  ;; MSG SIZE  rcvd: 121
+
+
+Probe #1011333
+===============================================================================
+
+  No response found
+
+
+Probe #60576
+===============================================================================
+
+  No response found
+
+
+Probe #1010346
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 36782
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1755     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 2.541 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #17590
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 38331
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1756     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 6.151 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1008829
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 57207
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 61.804 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #61639
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 9256
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1756     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 4.765 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #53448
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 23920
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1756     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 22.321 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1012939
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 3632
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 15.247 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:50 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1012940
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 45218
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 69.0 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #51924
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53699
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 81.664 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:47 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1003760
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 18961
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 41.785 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 121
+
+
+Probe #64787
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 34880
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 11.165 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 121
+
+
+Probe #25375
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1590
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 12.763 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #53537
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 15921
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 71.981 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1004845
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 10446
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 48.84 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1013038
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 37995
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1799     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 18.988 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:50 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1012017
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 62350
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 2.468 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #25398
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 988
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 7.54 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1002817
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 21852
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 90.564 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1002818
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 16374
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 71.211 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #65861
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 54857
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1756     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 3.766 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #55119
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40161
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 21.587 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:50 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1003863
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 49599
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1755     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 3.168 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1004375
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7012
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1755     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 3.113 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1002842
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1607
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1755     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 10.933 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #55645
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14121
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1754     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 6.801 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1008476
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 39418
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 4.094 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1011558
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 24227
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1755     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 106.438 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #53099
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 51111
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 55.441 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:51 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #62322
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 56005
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1755     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 10.144 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1003379
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 6638
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 32.764 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1007478
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 51884
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 9.103 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #1010593
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 36436
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1756     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 3.717 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #60327
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 51197
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1800     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 11.139 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:49 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1011623
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14264
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1755     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 3.41 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:08 IST 2025
+  ;; MSG SIZE  rcvd: 123
+
+
+Probe #65493
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 34628
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1755     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 17.399 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:48 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #13785
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> melt-workloadopenapi.ngc.gov.in.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 27424
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+  ;; OPT PSEUDOSECTION:
+  ; EDNS: version: 0, flags:; udp: 1232
+
+  ;; QUESTION SECTION:
+  ;melt-workloadopenapi.ngc.gov.in.  IN     A    
+
+  ;; AUTHORITY SECTION:
+  ngc.gov.in.             1754     IN     SOA    ns2.nic.in. nsadmin.nic.in. 2025050902 1800 1800 1209600 14400
+
+  ;; Query time: 8.833 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Nov 04 14:51:50 IST 2025
+  ;; MSG SIZE  rcvd: 122
+
+
+Probe #1007194
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39306
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      104.21.66.137
+  piratebay.live.         300      IN     A      172.67.160.103
+
+  ;; Query time: 91.708 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:13 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #62069
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64310
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 83.495 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:13 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #1010349
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22604
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 458.002 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:14 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #51903
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51359
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 10.822 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:14 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #60109
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3797
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 9.702 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:13 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #64718
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20945
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 27.788 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:14 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #60627
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5637
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         299      IN     A      104.21.66.137
+  piratebay.live.         299      IN     A      172.67.160.103
+
+  ;; Query time: 20.102 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:14 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #1007876
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29442
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 52.927 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:14 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #1013038
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47402
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      104.21.66.137
+  piratebay.live.         300      IN     A      172.67.160.103
+
+  ;; Query time: 18.933 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:13 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #1002800
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2507
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 16.171 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:14 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #64306
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17964
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 20.894 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:13 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #1009992
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7656
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      104.21.66.137
+  piratebay.live.         300      IN     A      172.67.160.103
+
+  ;; Query time: 17.881 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:13 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #62302
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32617
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      104.21.66.137
+  piratebay.live.         300      IN     A      172.67.160.103
+
+  ;; Query time: 7.261 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:14 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #1011558
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51219
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      104.21.66.137
+  piratebay.live.         300      IN     A      172.67.160.103
+
+  ;; Query time: 7.295 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:13 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #62322
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45903
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 10.556 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:14 IST 2025
+  ;; MSG SIZE  rcvd: 64
+
+
+Probe #2501
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> piratebay.live.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6839
+  ;; flags: qr ra rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;piratebay.live.                 IN     A    
+
+  ;; ANSWER SECTION:
+  piratebay.live.         300      IN     A      172.67.160.103
+  piratebay.live.         300      IN     A      104.21.66.137
+
+  ;; Query time: 81.159 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Wed Nov 05 00:17:14 IST 2025
+  ;; MSG SIZE  rcvd: 64

@@ -1,0 +1,200 @@
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> settings.luckyorange.net.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 51342
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;settings.luckyorange.net.       IN     A    
+
+  ;; Query time: 5.816 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:16 IST 2025
+  ;; MSG SIZE  rcvd: 42
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> adobemetrics.okta.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 31941
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;adobemetrics.okta.com.          IN     A    
+
+  ;; Query time: 3.907 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:19 IST 2025
+  ;; MSG SIZE  rcvd: 39
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> shb-sync.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 61020
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;shb-sync.com.                   IN     A    
+
+  ;; Query time: 5.436 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:22 IST 2025
+  ;; MSG SIZE  rcvd: 30
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> master.prismic.io.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11249
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;master.prismic.io.              IN     A    
+
+  ;; Query time: 5.868 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:24 IST 2025
+  ;; MSG SIZE  rcvd: 35
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> sonyglobal.demdex.net.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 29922
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;sonyglobal.demdex.net.          IN     A    
+
+  ;; Query time: 3.557 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:25 IST 2025
+  ;; MSG SIZE  rcvd: 39
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> statics.hokibagus.club.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 49329
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;statics.hokibagus.club.         IN     A    
+
+  ;; Query time: 5.957 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:28 IST 2025
+  ;; MSG SIZE  rcvd: 40
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> pansalb.org.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 16792
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;pansalb.org.                    IN     A    
+
+  ;; Query time: 3.234 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:30 IST 2025
+  ;; MSG SIZE  rcvd: 29
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> analitik.uab.gov.tr.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 4061
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;analitik.uab.gov.tr.            IN     A    
+
+  ;; Query time: 5.194 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:32 IST 2025
+  ;; MSG SIZE  rcvd: 37
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> silahilani.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 9466
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;silahilani.com.                 IN     A    
+
+  ;; Query time: 5.403 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:35 IST 2025
+  ;; MSG SIZE  rcvd: 32
+
+
+Probe #1012006
+===============================================================================
+
+- 1 -
+
+  ; <<>> RIPE Atlas Tools <<>> www.klinikkompass.com.
+  ;; global options: +cmd
+  ;; Got answer:
+  ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 9213
+  ;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+  ;; QUESTION SECTION:
+  ;www.klinikkompass.com.          IN     A    
+
+  ;; Query time: 3.483 msec
+  ;; SERVER: 1.1.1.1#53(1.1.1.1)
+  ;; WHEN: Tue Oct 21 23:53:37 IST 2025
+  ;; MSG SIZE  rcvd: 39
